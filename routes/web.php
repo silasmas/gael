@@ -1,31 +1,21 @@
 <?php
 
-use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
 | Web Routes
 |--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
-
-Route::middleware('auth')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
-});
+Route::get('/language/{locale}', 'App\Http\Controllers\Web\HomeController@changeLanguage')->name('change_language');
+Route::get('/', 'App\Http\Controllers\Web\HomeController@index')->name('home');
+Route::get('/about', 'App\Http\Controllers\Web\HomeController@about')->name('about.home');
+Route::get('/events', 'App\Http\Controllers\Web\HomeController@events')->name('events.home');
+Route::get('/events/{id}', 'App\Http\Controllers\Web\HomeController@eventDatas')->whereNumber('id')->name('events.datas');
+Route::get('/resources', 'App\Http\Controllers\Web\HomeController@resources')->name('resources.home');
+Route::get('/resources/{entity}', 'App\Http\Controllers\Web\HomeController@resourceEntity')->name('resources.entity.home');
+Route::get('/resources/{entity}/{id}', 'App\Http\Controllers\Web\HomeController@resourceEntityDatas')->whereNumber('id')->name('resources.entity.datas');
+Route::get('/donate', 'App\Http\Controllers\Web\HomeController@donate')->name('donate');
 
 require __DIR__.'/auth.php';
