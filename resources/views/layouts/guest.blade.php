@@ -50,8 +50,8 @@
                         </div>
 
                         <ul class="addresss-info">
-                            <li><i class="fa fa-map-marker"></i><p>17504 Carlton Cuevas Rd, Gulfport, MS, 39503</p></li>
-                            <li><i class="fa fa-phone"></i> <a href="tel:7042791249"><span>+(243) 279-1249</span></a></li>
+                            <li><i class="fa fa-map-marker"></i><p>162, avenue Baraka, commune de Kinshasa</p></li>
+                            <li><i class="fa fa-phone"></i> <a href="tel:7042791249"><span>+(243) 819-012-363</span></a></li>
                             <li><i class="fa fa-envelope-o"></i> <a href="mailto:contact@groupegael.com"><span>contact@groupegael.com</span></a></li>
                         </ul>
                     </div>
@@ -76,7 +76,7 @@
                                 <form action="php/mailchimp-action.php" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
                                     <div id="msg"></div>
                                     <div id="mc_embed_signup_scroll_2">
-                                        <input id="mce-EMAIL" class="form-control" type="text" placeholder="Adresse E-mail" name="email1" value="">
+                                        <input id="mce-EMAIL" class="form-control text-warning" type="text" placeholder="Adresse E-mail" name="email1" value="">
                                     </div>
                                     <div id="mce-responses" class="clear">
                                         <div class="response" id="mce-error-response" style="display:none"></div>
