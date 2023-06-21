@@ -57,7 +57,7 @@
                                         <!-- menu logo -->
                                         <ul class="menu-logo">
                                             <li>
-                                                <a href="{{ route('home') }}"><img id="logo_img" src="{{ asset('img/logo-reverse.png') }}" alt="logo"> </a>
+                                                <a href="{{ route('home') }}"><img id="logo_img" src="{{ asset('img/logo-reverse.png') }}" alt="logo" style="width: 120px; height: 60px;"></a>
                                             </li>
                                         </ul>
 
