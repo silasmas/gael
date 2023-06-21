@@ -36,8 +36,15 @@
         <title>Groupe Adorons l'Éternel</title>
     </head>
     <body>
+        <div class="wrapper">
+            <!--================ preloader =================-->
+            <div id="pre-loader">
+                <img src="{{ asset('assets/img/pre-loader/loader-03.svg') }}" alt="">
+            </div>
+            <!--================ preloader =================-->
 
 @yield('guest-content')
+        </div>
 
         <!-- =============== footer ================= -->
         <footer class="footer page-section-pt black-bg">
