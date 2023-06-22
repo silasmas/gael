@@ -130,7 +130,7 @@
                                 <h6 class="text-white fw-light">Fondateur du Groupe Adorons l'Eternel (<span class="text-warning">GAEL</span>)</h6>
                                 <h2 class="mb-4 text-white title-effect text-uppercase" style="letter-spacing: 3.5px;">Alain Moloto Kossy</h2>
                                 <p class="text-white fw-light" style="letter-spacing: 1px; line-height: 2rem;">Crée le 17 MARS 1998 par l'initiative du frère Alain Moloto Kossy, le Groupe Adorons l'Eternel, GAEL en sigle, est un ensemble des ministères œuvrant auprès du Corps du Christ dans le domaine de la louange et de l'adoration.</p>
-                                <p><a href="{{ route('about.home') }}" class="button border white mt-5">Voir les détails &raquo;</a></p>
+                                <p class="m-0"><a href="{{ route('about.home') }}" class="button border white mt-5 text-dark">Voir les détails &raquo;</a></p>
                             </div>
                         </div>
                     </div>
