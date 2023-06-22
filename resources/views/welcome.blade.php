@@ -61,5 +61,81 @@
                 </div>
             </section>
             <!--================ banner =================-->
-    
+
+            <!--================= about ================-->
+            <section class="page-section-ptb">
+                <div class="container">
+                    <div class="row g-lg-5">
+                        <div class="col-md-6 sm-mb-30">
+                            <div class="owl-carousel bottom-center-dots" data-nav-dots="ture" data-smartspeed="1200" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" style="border-radius: 1.5rem; overflow: hidden;">
+                                <div class="item">
+                                    <img class="img-fluid" src="{{ asset('img/gk/gk-01.jpg') }}" alt="">
+                                </div>
+                                <div class="item">
+                                    <img class="img-fluid" src="{{ asset('img/gk/gk-02.jpg') }}" alt="">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="section-title mt-lg-5">
+                                <h6 class="text-secondary">GAEL Kids</h6>
+                                <h2 class="title-effect">Nouvelle génération d'adorateurs</h2>
+                            </div>
+
+                            <p>
+                                <span class="dropcap gray square">N</span> <span class="fs-6">ous recrutons les adorateurs de Jésus-Christ dans toutes générations quel que soit l'âge et l'occupation</span>
+                            </p>
+
+                            <div class="mt-30">
+                                <button type="button" class="button icon mb-10 mr-10" data-bs-toggle="modal" data-bs-target="#exampleModal">Commencer l'inscription</button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header align-items-start">
+                                                <div class="modal-title" id="exampleModalLabel">
+                                                    <div class="section-title mb-10">
+                                                        <h6>GAEL Kids</h6>
+                                                        <p>Incrivez-vous pour commencer</p>
+                                                    </div>
+                                                </div>
+
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+
+                                            <div class="modal-body"></div>
+
+                                            <div class="modal-footer">
+                                                    {{-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> --}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== about ==================-->
+
+            <!--================= founder ================-->
+            <section class="page-section-ptb bg-overlay-black-50 jarallax" data-speed="0.6" data-img-src="{{ asset('img/founder.jpg') }}">
+                <div class="container">
+                    <div class="row h-auto">
+                        <div class="col-md-10">
+                            <div class="section-title">
+                                <h6 class="text-white fw-light">Fondateur du Groupe Adorons l'Eternel (<span class="text-warning">GAEL</span>)</h6>
+                                <h2 class="mb-4 text-white title-effect text-uppercase" style="letter-spacing: 3.5px;">Alain Moloto Kossy</h2>
+                                <p class="text-white fw-light" style="letter-spacing: 1px; line-height: 2rem;">Crée le 17 MARS 1998 par l'initiative du frère Alain Moloto Kossy, le Groupe Adorons l'Eternel, GAEL en sigle, est un ensemble des ministères œuvrant auprès du Corps du Christ dans le domaine de la louange et de l'adoration.</p>
+                                <p><a href="{{ route('about.home') }}" class="button border white mt-5">Voir les détails &raquo;</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== founder ==================-->
+
 @endsection
