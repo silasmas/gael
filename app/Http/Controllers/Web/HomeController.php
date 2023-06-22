@@ -38,7 +38,12 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('welcome');
+        try {
+            return view('welcome');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -48,7 +53,12 @@ class HomeController extends Controller
      */
     public function about()
     {
-        return view('about');
+        try {
+            return view('about');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -58,7 +68,12 @@ class HomeController extends Controller
      */
     public function events()
     {
-        return view('event');
+        try {
+            return view('event');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -69,7 +84,12 @@ class HomeController extends Controller
      */
     public function eventDatas($id)
     {
-        return view('event');
+        try {
+            return view('event');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -79,7 +99,12 @@ class HomeController extends Controller
      */
     public function resources()
     {
-        return view('resource');
+        try {
+            return view('resource');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -90,7 +115,12 @@ class HomeController extends Controller
      */
     public function resourceEntity($entity)
     {
-        return view('resource');
+        try {
+            return view('resource');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -102,7 +132,12 @@ class HomeController extends Controller
      */
     public function resourceEntityDatas($entity, $id)
     {
-        return view('resource');
+        try {
+            return view('resource');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     /**
@@ -114,7 +149,12 @@ class HomeController extends Controller
      */
     public function donate()
     {
-        return view('donate');
+        try {
+            return view('donate');
+
+        } catch (\Throwable $th) {
+            abort(404);
+        }
     }
 
     // ==================================== HTTP POST METHODS ====================================

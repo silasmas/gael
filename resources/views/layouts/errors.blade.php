@@ -33,9 +33,9 @@
 
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/skins/skin-orange.css') }}" />
 
-        <title>Groupe Adorons l'Éternel</title>
+        <title>Erreur : {{ $exception->getStatusCode() }}</title>
     </head>
-    <body>
+    <body style="background: rgba(0, 0, 0, 0.7) url({{ asset('img/error.jpg') }}) no-repeat center center; background-size: cover;">
         <div class="wrapper">
             <!--================ preloader =================-->
             <div id="pre-loader">
@@ -43,55 +43,7 @@
             </div>
             <!--================ preloader =================-->
 
-            <!--================ header =================-->
-            <header id="header" class="header default">
-                <!--=============== mega menu ==================-->
-                <div class="menu">
-                    <!-- menu start -->
-                    <nav id="menu" class="mega-menu">
-                        <!-- menu list items container -->
-                        <section class="menu-list-items">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 position-relative">
-                                        <!-- menu logo -->
-                                        <ul class="menu-logo">
-                                            <li>
-                                                <a href="{{ route('home') }}"><img id="logo_img" src="{{ asset('img/logo-reverse.png') }}" alt="logo" style="width: 120px; height: 60px;"></a>
-                                            </li>
-                                        </ul>
-
-                                        <!-- menu links -->
-                                        <div class="menu-bar">
-                                            <ul class="menu-links">
-                                                <li><a href="{{ route('home') }}">Accueil</a></li>
-                                                <li><a href="{{ route('about.home') }}">A propos</a></li>
-                                                <li><a href="{{ route('events.home') }}">Events</a></li>
-                                                <li>
-                                                    <a href="javascript:void(0)">Ressources <i class="fa fa-angle-down fa-indicator"></i></a>
-
-                                                    <!-- drop down full width -->
-                                                    <div class="drop-down">
-                                                        <ul>
-                                                            <li><a href="{{ route('resources.entity.home', ['entity' => 'meditations']) }}">Méditations</a></li>
-                                                            <li><a href="{{ route('resources.entity.home', ['entity' => 'musics']) }}">Musique</a></li>
-                                                            <li><a href="{{ route('resources.entity.home', ['entity' => 'books']) }}">Livres</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </nav>
-                    <!-- menu end -->
-                </div>
-            </header>
-            <!--================ header =================-->
-
-@yield('guest-content')
+@yield('error-content')
 
         </div>
 
