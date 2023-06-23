@@ -34,7 +34,7 @@
                         </div>
 
                         <div class="col-md-8">
-                            <p class="mt-lg-5 fs-5">Crée le 17 MARS 1998 par l'initiative du frère ALAIN MOLOTO KOSSY, le Groupe Adorons l'Eternel, en sigle GAEL, est un ensemble des ministères œuvrant auprès du Corps du Christ dans le domaine de la louange et de l'adoration.</span></p>
+                            <p class="mt-lg-4 fs-5">Crée le 17 MARS 1998 par l'initiative du frère ALAIN MOLOTO KOSSY, le Groupe Adorons l'Eternel, en sigle GAEL, est un ensemble des ministères œuvrant auprès du Corps du Christ dans le domaine de la louange et de l'adoration.</span></p>
 
                             <div class="mt-30">
                                 <a class="button icon mb-10 mr-10" href="https://fr.wikipedia.org/wiki/Alain_Moloto" target="_blank">Voir ses &oelig;uvres</a>
