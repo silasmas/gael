@@ -93,6 +93,48 @@
 
 @yield('guest-content')
 
+            <!--================ contact =================-->
+            <section class="page-section-ptb contact-2 gray-bg">
+                <div class="container">
+                    <div class="row justify-content-center text-center mb-50">
+                        <div class="col-md-8">
+                            <div class="section-title">
+                                <h6>Avez-vous une question ?</h6>
+                                <h2 class="title-effect">Contactez-nous</h2>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12">
+                            <div id="formmessage">Ecrire un message</div>
+
+                            <form id="contactform" role="form">
+                                <div class="contact-form clearfix">
+                                    <div class="section-field">
+                                        <input id="name" type="text" placeholder="Name*" class="form-control border-bottom border-default"  name="name">
+                                    </div>
+                                    <div class="section-field">
+                                        <input type="email" placeholder="E-mail*" class="form-control border-bottom border-default" name="email">
+                                    </div>
+                                    <div class="section-field">
+                                        <input type="text" placeholder="Téléphone*" class="form-control border-bottom border-default" name="phone">
+                                    </div>
+                                    <div class="section-field textarea">
+                                        <textarea class="input-message form-control border-bottom border-default" placeholder="Ecrire ici*" rows="2" name="message" style="resize: none;"></textarea>
+                                    </div>
+
+                                    <!-- Google reCaptch-->
+                                    <!-- <div class="g-recaptcha section-field clearfix" data-sitekey="6LfNmS0UAAAAAO_ZVFQoQmkGPMlQXmKgVbizHFoq"></div> -->
+                                    <button type="submit" name="submit" id="submit" class="button mt-4 mb-0" value="Envoyer"><span>Envoyer le message</span> <i class="fa fa-paper-plane"></i></button>
+                                </div>
+                            </form>
+
+                            <div id="ajaxloader" style="display:none"><img class="mx-auto mt-30 mb-30 d-block" src="{{ asset('img/ajax-loading.gif') }}" alt=""></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--================ contact =================-->
+
         </div>
 
         <!-- =============== footer ================= -->
