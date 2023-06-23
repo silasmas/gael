@@ -93,6 +93,7 @@
 
 @yield('guest-content')
 
+@if (!Route::is('about.home'))
             <!--================ contact =================-->
             <section class="page-section-ptb contact-2 gray-bg">
                 <div class="container">
@@ -134,8 +135,8 @@
                 </div>
             </section>
             <!--================ contact =================-->
-
         </div>
+@endif
 
         <!-- =============== footer ================= -->
         <footer class="footer page-section-pt black-bg">

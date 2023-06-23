@@ -116,7 +116,7 @@
             <!--================ mission =================-->
 
             <!--================ mission =================-->
-            <section class="white-bg contact-3 o-hidden clearfix mb-5">
+            <section class="white-bg contact-3 o-hidden clearfix">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-4 contact-add gray-bg h-100">
