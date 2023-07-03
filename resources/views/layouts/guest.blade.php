@@ -64,10 +64,10 @@
                                         <!-- menu links -->
                                         <div class="menu-bar">
                                             <ul class="menu-links">
-                                                <li><a href="{{ route('home') }}">Accueil</a></li>
-                                                <li><a href="{{ route('about.home') }}">A propos</a></li>
-                                                <li><a href="{{ route('ministry.home') }}">Ministères</a></li>
-                                                <li><a href="{{ route('discography.home') }}">Discographie</a></li>
+                                                <li class="{{ Route::is('home') ? 'active' : '' }}"><a href="{{ route('home') }}">Accueil</a></li>
+                                                <li class="{{ Route::is('about.home') ? 'active' : '' }}"><a href="{{ route('about.home') }}">A propos</a></li>
+                                                <li class="{{ Route::is('ministry.home') || Route::is('ministry.datas') ? 'active' : '' }}"><a href="{{ route('ministry.home') }}">Ministères</a></li>
+                                                <li class="{{ Route::is('discography.home') || Route::is('discography.entity.home') || Route::is('discography.entity.datas') ? 'active' : '' }}"><a href="{{ route('discography.home') }}">Discographie</a></li>
                                             </ul>
                                         </div>
                                     </div>
