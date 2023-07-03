@@ -254,5 +254,23 @@
 
         <!-- custom -->
         <script src="{{ asset('addons/webster/js/custom.js') }}"></script>
+        <script type="text/javascript">
+            $(function () {
+                $('.see_more').click(function (e) { 
+                    e.preventDefault();
+
+                    if ($(this).text() == 'Voir plus') {
+                        $(this).text('Voir moins');
+                        $('.complete').removeClass('d-none');
+                        $('.teaser').find('.mEllipsis').hide();
+
+                    } else {
+                        $(this).text('Voir plus');
+                        $('.complete').addClass('d-none');
+                        $('.teaser').find('.mEllipsis').show();
+                    }
+                });
+            });
+        </script>
     </body>
 </html>

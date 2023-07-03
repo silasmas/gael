@@ -91,46 +91,39 @@
                                     </div>
                                 </div>
 
-                                <span class="fs-6">
+                                <span class="fs-6 teaser">
                                     Les dernières années que viennent de passer dans ces ministères ont été les plus émouvantes et les plus agitées ; 
                                     elles ont laissées après elles beaucoup de douleurs et de confusion. Mais l'heure n'est plus à l'agitation et au 
-                                    deuil, le temps n'est plus à la distraction et la peur ; car beaucoup d'adorateurs venus de loin attendent que 
-                                    l'étoile de GAEL paraisse dans le ciel pour indiquer l'endroit où se trouve le roi de juif pour l'adorer.
+                                    deuil, le temps n'est plus à la distraction et la peur ; car beaucoup d'adorateurs venus de loin attendent que <span class="mEllipsis">. . .</span>
+                                    <span class="complete d-none">l'étoile de GAEL paraisse dans le ciel pour indiquer l'endroit où se trouve le roi de juif pour l'adorer.
+                                    <br><br>
+                                    L'un des grands rêves de notre regretté père Alain MOLOTO était de voir une armée d'adorateurs se lever pour 
+                                    glorifier Jésus-Christ parmi les nations, une race de ceux qui répondent aux critères que christ révèle dans 
+                                    l'avis de recherche du père. Et depuis le 22 septembre 2013, date à laquelle cette nouvelle responsabilité nous 
+                                    a été confiée, nous sommes conscient de l'obligation de porter l'étendard plus haut et d'amener la conquête dans la terre promise.
+                                    <br><br>
+                                    C'est pour cette raison que je me permets de vous écrire, à vous tous qui êtes GAEL d'une manière ou
+                                    d'une autre, à vous tous qui partagez la même espérance que nous.
+                                    Nous sommes la génération de l'accomplissement, ceux qui sont choisi pour entrer dans le pays ; nos
+                                    défis seront certes différents, mais la vision doit demeurer exactement la même ; les méthodes vont
+                                    obligatoirement changer, mais notre coeur d'adorateur doit rester le même dans toutes les générations.
+                                    <br><br>
+                                    Si vous aviez souvent pensé à GAEL, eh bien ! Maintenant il faut commencer à prier pour GAEL, afin que
+                                    rien ne nous empêche d'atteindre le but du seigneur dans cette saison, ni le diable, ni la division, ni les
+                                    hommes, ni la chaire, ni la convoitise sous toutes ses formes.<br>
+                                    Si vous aviez souvent conseillé GAEL, eh bien ! Maintenant il faut contribuer dans l'oeuvre, à travers ce
+                                    que vous êtes et avec ce vous avez, soutenir de jour et de nuit par vos prière, votre présence et vos
+                                    finances ; afin que nous nous concentrions à l'essentiel au lieu de nous soucier de ce qui peut nous
+                                    distraire.
+                                    <br><br>
+                                    Et enfin si vous aviez parlé de GAEL, eh bien ! Maintenant il faut devenir GAEL, devenir un membre actif
+                                    de ce travail en vous y rapprochant le plus que possible.<br>
+                                    Je crois de tout mon coeur qu'il est plus que temps de tourner le regard de l'église en direction de
+                                    l'époux qui vient, il est l'heure d'honorer le sauveur plutôt que de parler du voleur ; il est temps d'adorer
+                                    le Rois de gloire, venez, et Adorons l'Eternel !</span>
                                 </span>
                             </p>
-
-                            <p class="fs-6">
-                                L'un des grands rêves de notre regretté père Alain MOLOTO était de voir une armée d'adorateurs se lever pour 
-                                glorifier Jésus-Christ parmi les nations, une race de ceux qui répondent aux critères que christ révèle dans 
-                                l'avis de recherche du père. Et depuis le 22 septembre 2013, date à laquelle cette nouvelle responsabilité nous 
-                                a été confiée, nous sommes conscient de l'obligation de porter l'étendard plus haut et d'amener la conquête dans la terre promise.
-                            </p>
-
-                            <p class="fs-6">
-                                C'est pour cette raison que je me permets de vous écrire, à vous tous qui êtes GAEL d'une manière ou
-                                d'une autre, à vous tous qui partagez la même espérance que nous.
-                                Nous sommes la génération de l'accomplissement, ceux qui sont choisi pour entrer dans le pays ; nos
-                                défis seront certes différents, mais la vision doit demeurer exactement la même ; les méthodes vont
-                                obligatoirement changer, mais notre coeur d'adorateur doit rester le même dans toutes les générations.
-                            </p>
-
-                            <p class="fs-6">
-                                Si vous aviez souvent pensé à GAEL, eh bien ! Maintenant il faut commencer à prier pour GAEL, afin que
-                                rien ne nous empêche d'atteindre le but du seigneur dans cette saison, ni le diable, ni la division, ni les
-                                hommes, ni la chaire, ni la convoitise sous toutes ses formes.<br>
-                                Si vous aviez souvent conseillé GAEL, eh bien ! Maintenant il faut contribuer dans l'oeuvre, à travers ce
-                                que vous êtes et avec ce vous avez, soutenir de jour et de nuit par vos prière, votre présence et vos
-                                finances ; afin que nous nous concentrions à l'essentiel au lieu de nous soucier de ce qui peut nous
-                                distraire.
-                            </p>
-
-                            <p class="fs-6 mb-0">
-                                Et enfin si vous aviez parlé de GAEL, eh bien ! Maintenant il faut devenir GAEL, devenir un membre actif
-                                de ce travail en vous y rapprochant le plus que possible.<br>
-                                Je crois de tout mon coeur qu'il est plus que temps de tourner le regard de l'église en direction de
-                                l'époux qui vient, il est l'heure d'honorer le sauveur plutôt que de parler du voleur ; il est temps d'adorer
-                                le Rois de gloire, venez, et Adorons l'Eternel !
-                            </p>
+                            <button class="see_more btn btn-sm btn-info py-1 px-2 border-0 shadow-0" style="text-transform: inherit!important;">Voir plus</button>
                         </div>
                     </div>
                 </div>
