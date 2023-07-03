@@ -66,19 +66,8 @@
                                             <ul class="menu-links">
                                                 <li><a href="{{ route('home') }}">Accueil</a></li>
                                                 <li><a href="{{ route('about.home') }}">A propos</a></li>
-                                                <li><a href="{{ route('events.home') }}">Events</a></li>
-                                                <li>
-                                                    <a href="javascript:void(0)">Ressources <i class="fa fa-angle-down fa-indicator"></i></a>
-
-                                                    <!-- drop down full width -->
-                                                    <div class="drop-down">
-                                                        <ul>
-                                                            <li><a href="{{ route('resources.entity.home', ['entity' => 'meditations']) }}">Méditations</a></li>
-                                                            <li><a href="{{ route('resources.entity.home', ['entity' => 'musics']) }}">Musique</a></li>
-                                                            <li><a href="{{ route('resources.entity.home', ['entity' => 'books']) }}">Livres</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </li>
+                                                <li><a href="{{ route('ministry.home') }}">Ministères</a></li>
+                                                <li><a href="{{ route('discography.home') }}">Discographie</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -160,8 +149,8 @@
                             <h6 class="text-white mb-30 mt-10 text-uppercase">Liens utiles</h6>
                             <ul>
                                 <li><a href="{{ route('about.home') }}">A propos</a></li>
-                                <li><a href="{{ route('events.home') }}">Events</li>
-                                <li><a href="{{ route('resources.home') }}">Ressources</a></li>
+                                <li><a href="{{ route('ministry.home') }}">Ministères</a></li>
+                                <li><a href="{{ route('discography.home') }}">Discographie</a></li>
                                 <li><a href="{{ route('donate') }}">Donation</a></li>
                             </ul>
                         </div>

@@ -3,19 +3,9 @@
 namespace App\Http\Controllers\Web;
 
 use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\App;
-use Illuminate\Support\Facades\Auth;
-use Illuminate\Support\Facades\Redirect;
-use Illuminate\Support\Facades\Session;
 
 class HomeController extends Controller
 {
-    public function __construct()
-    {
-        $this->middleware('auth')->except(['changeLanguage', 'index', 'about', 'events', 'eventDatas', 'resources', 'resourceEntity', 'resourceEntityDatas', 'donate']);
-    }
-
     // ==================================== HTTP GET METHODS ====================================
     /**
      * GET: Change language
@@ -62,14 +52,14 @@ class HomeController extends Controller
     }
 
     /**
-     * GET: View events page
+     * GET: View ministries page
      *
      * @return \Illuminate\View\View
      */
-    public function events()
+    public function ministries()
     {
         try {
-            return view('event');
+            return view('ministry');
 
         } catch (\Throwable $th) {
             abort(404);
@@ -82,10 +72,10 @@ class HomeController extends Controller
      * @param  $id
      * @return \Illuminate\View\View
      */
-    public function eventDatas($id)
+    public function ministryDatas($id)
     {
         try {
-            return view('event');
+            return view('ministry');
 
         } catch (\Throwable $th) {
             abort(404);
@@ -93,14 +83,14 @@ class HomeController extends Controller
     }
 
     /**
-     * GET: View resources page
+     * GET: View discography page
      *
      * @return \Illuminate\View\View
      */
-    public function resources()
+    public function discography()
     {
         try {
-            return view('resource');
+            return view('discography');
 
         } catch (\Throwable $th) {
             abort(404);
@@ -108,15 +98,15 @@ class HomeController extends Controller
     }
 
     /**
-     * GET: View specific resource page
+     * GET: View specific album page
      *
      * @param  $entity
      * @return \Illuminate\View\View
      */
-    public function resourceEntity($entity)
+    public function discographyEntity($entity)
     {
         try {
-            return view('resource');
+            return view('discography');
 
         } catch (\Throwable $th) {
             abort(404);
@@ -124,16 +114,16 @@ class HomeController extends Controller
     }
 
     /**
-     * GET: View specific resource page
+     * GET: View specific song page
      *
      * @param  $entity
      * @param  $id
      * @return \Illuminate\View\View
      */
-    public function resourceEntityDatas($entity, $id)
+    public function discographyEntityDatas($entity, $id)
     {
         try {
-            return view('resource');
+            return view('discography');
 
         } catch (\Throwable $th) {
             abort(404);

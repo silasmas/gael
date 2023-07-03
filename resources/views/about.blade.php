@@ -217,6 +217,43 @@
             <!--================ mission =================-->
 
             <!--================ mission =================-->
+            <section class="page-section-ptb contact-2">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="section-title text-center">
+                                <h2 class="title-effect mb-4 text-uppercase">Les ministères GAEL</h2>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-5 col-sm-6">
+                            <div class="bg-image">
+                                <img src="{{ asset('img/mission.jpg') }}" alt="" class="img-fluid" style="border-radius: 1.5rem;">
+                                <div class="mask"></div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-7 col-sm-6">
+                            <p class="fs-6 fw-light mt-lg-1" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                GAEL MINISTRIES est un mouvement interdénominationnel et missionnaire qui veut
+                                contribuer à restaurer et dynamiser l’adoration dans le corps du christ et à faire connaître
+                                l’Évangile de Jésus-Christ dans le monde entier: En lui, les nations sont transformées
+                                et unies pour les noces dans l’éternité.
+                            </p>
+                            <p class="my-4 fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                Le groupe adorons l’Eternel développe différents ministères qui sont conçus avec but de
+                                répondre à un besoin bien précis dans le corps du christ et dans la société sur base de la
+                                mission et des capacités que le seigneur nous à donné. Ces ministères servent en particulier
+                                les enfants, les familles, les églises locales, les démunies, les musiciens, les
+                                internautes ainsi que le bureau international à Kinshasa.
+                            </p>
+                            <a href="" class="button btn-sm">Voir les ministères de GAEL</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--================ contact =================-->
             <section class="white-bg contact-3 o-hidden clearfix">
                 <div class="container-fluid">
                     <div class="row">
@@ -246,6 +283,6 @@
                     </div>
                 </div>
             </section>
-            <!--================ mission =================-->
+            <!--================ contact =================-->
 
 @endsection
