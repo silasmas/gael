@@ -302,7 +302,7 @@
 
                         <div class="col-lg-5 col-sm-6">
                             <div class="bg-image">
-                                <img src="{{ asset('img/mission.jpg') }}" alt="" class="img-fluid" style="border-radius: 1.5rem;">
+                                <img src="{{ asset('img/ministry.png') }}" alt="" class="img-fluid" style="border-radius: 1.5rem;">
                                 <div class="mask"></div>
                             </div>
                         </div>
