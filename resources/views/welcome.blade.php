@@ -192,7 +192,7 @@
             <!--=============== gael ministries ==================-->
 
             <!--================= founder ================-->
-            <section class="page-section-ptb bg-overlay-black-60 jarallax" data-speed="0.6" data-img-src="{{ asset('img/founder.jpg') }}">
+            <section class="page-section-ptb bg-overlay-black-60 jarallax" data-speed="0.6" data-img-src="{{ asset('img/founder00.jpg') }}">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
@@ -207,26 +207,6 @@
                 </div>
             </section>
             <!--=============== founder ==================-->
-
-            <!--================= citation ================-->
-            <section class="page-section-ptb bg-overlay-black-70 jarallax" data-speed="0.6" data-img-src="{{ asset('img/citation.jpg') }}">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="section-title text-center">
-                                <h2 class="mb-4 text-white">Hébreux 13:15</h2>
-                                <p class="text-warning fs-3" style="letter-spacing: 1.5px; line-height: 2.3rem;">
-                                    <i class="fa fa-quote-left me-2"></i>
-                                    Par lui, offrons sans cesse à Dieu un sacrifice de louange, c'est-à-dire le fruit de lèvres qui confessent son Nom.
-                                    <i class="fa fa-quote-right ms-2"></i>
-                                </p>
-                                <p class="m-0"><a href="{{ route('about.home') }}" class="button border white mt-5 text-dark">Découvrez &laquo; 24 heures &raquo;</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--=============== citation ==================-->
 
             <!--================= gael TV ================-->
             <section class="page-section-ptb">
@@ -245,12 +225,32 @@
 
                         <div class="col-md-6">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe src="http://www.youtube.com/embed/_dXYn-DZrFM?rel=0" class="embed-responsive-item" data-gtm-yt-inspected-2340190_699="true" data-gtm-yt-inspected-2340190_908="true" allowfullscreen=""></iframe>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/3SxK9DPMVMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
             <!--=============== gael TV ==================-->
+
+            <!--================= citation ================-->
+            <section class="page-section-ptb bg-overlay-black-70 jarallax" data-speed="0.6" data-img-src="{{ asset('img/citation.jpg') }}">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="section-title text-center">
+                                <h2 class="mb-4 text-white">Hébreux 13:15</h2>
+                                <p class="text-warning fs-3" style="letter-spacing: 1.5px; line-height: 2.3rem;">
+                                    <i class="fa fa-quote-left me-2"></i>
+                                    Par lui, offrons sans cesse à Dieu un sacrifice de louange, c'est-à-dire le fruit de lèvres qui confessent son Nom.
+                                    <i class="fa fa-quote-right ms-2"></i>
+                                </p>
+                                <p class="m-0"><a href="{{ route('ministry.home') }}" class="button border white mt-5 text-dark">Découvrez &laquo; 24 heures &raquo;</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== citation ==================-->
 
 @endsection
