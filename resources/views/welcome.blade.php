@@ -39,11 +39,11 @@
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 5 -->
                                 <div class="tp-caption tp-resizeme rev-color" id="slide-767-layer-1" data-x="385" data-y="center" data-voffset="-15" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":300,"speed":2000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 400px; line-height: 400px; font-weight: 700; color: #84ba3f; letter-spacing: 0px;font-family:Lato;">
-                                    S<span class="opacity-40">anjola</span>
+                                    G<span class="opacity-40">AEL</span>
                                 </div>
                                 <!-- LAYER NR. 6 -->
                                 <div class="tp-caption tp-resizeme" id="slide-767-layer-2" data-x="708" data-y="center" data-voffset="32" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 70px; line-height: 70px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;">
-                                    L'événement annuel <br /> est bientôt <br /> de retour
+                                    Ministries
                                 </div>
                                 <!-- LAYER NR. 7 -->
                                 <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme  rev-bg" id="slide-767-layer-3" data-x="center" data-hoffset="350" data-y="center" data-voffset="42" data-width="['3']" data-height="['130']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":3260,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7;background-color:rgb(132,186,63);">
@@ -62,74 +62,141 @@
             </section>
             <!--================ banner =================-->
 
-            <!--================= gael kids ================-->
-            <section class="page-section-ptb">
+            <!--================= coordinator words ================-->
+            <section class="page-section-ptb py-5 bg-light">
                 <div class="container">
-                    <div class="row g-lg-5">
-                        <div class="col-md-6 sm-mb-30">
-                            <div class="owl-carousel bottom-center-dots" data-nav-dots="ture" data-smartspeed="1200" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" style="border-radius: 1.5rem; overflow: hidden;">
-                                <div class="item">
-                                    <img class="img-fluid" src="{{ asset('img/gk/gk-01.jpg') }}" alt="">
-                                </div>
-                                <div class="item">
-                                    <img class="img-fluid" src="{{ asset('img/gk/gk-02.jpg') }}" alt="">
-                                </div>
+                    <div class="row">
+                        <div class="col-lg-8 col-md-6 mx-auto">
+                            <div class="section-title text-center">
+                                <h2 class="title-effect text-uppercase">Mot du coordon. Int'l</h2>
                             </div>
                         </div>
 
-                        <div class="col-md-6">
-                            <div class="section-title mt-lg-5">
-                                <h6 class="text-secondary">GAEL Kids</h6>
-                                <h2 class="title-effect">Nouvelle génération d'adorateurs</h2>
-                            </div>
-
+                        <div class="col-12" style="text-align: justify;">
                             <p>
-                                <span class="dropcap gray square">N</span> <span class="fs-6">ous recrutons les adorateurs de Jésus-Christ dans toutes générations quel que soit l'âge et l'occupation</span>
-                            </p>
-
-                            <div class="mt-30">
-                                <button type="button" class="button icon mb-10 mr-10" data-bs-toggle="modal" data-bs-target="#exampleModal">Commencer l'inscription</button>
-
-                                <!-- Modal -->
-                                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header align-items-start">
-                                                <div class="modal-title" id="exampleModalLabel">
-                                                    <div class="section-title mb-10">
-                                                        <h6>GAEL Kids</h6>
-                                                        <p>Incrivez-vous pour commencer</p>
-                                                    </div>
-                                                </div>
-
-                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                            </div>
-
-                                            <div class="modal-body">
-                                                <form method="post" action="#">
-                                                    <div class="contact-form clearfix">
-                                                        <input id="name" type="text" placeholder="Name*" class="form-control"  name="name">
-                                                        <input type="email" placeholder="Email*" class="form-control" name="email">
-                                                        <input type="text" placeholder="Phone*" class="form-control" name="phone">
-
-                                                        <button type="submit" class="button btn-block"><span>Enregistrer</span></button>
-                                                    </div>
-                                                </form>
-                                            </div>
-
-                                            <div class="modal-footer">
-                                                    {{-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> --}}
+                                <div class="card d-sm-inline-block me-3 mb-4 float-sm-start shadow-0">
+                                    <div class="card-body">
+                                        <div class="row g-2">
+                                            <div class="col-4">
+                                                <div class="bg-image">
+                                                    <img src="{{ asset('img/coordinator.png') }}" alt="" width="85" height="85" class="rounded-circle me-2">
+                                                    <div class="mask"></div>
                                                 </div>
                                             </div>
-                                        </div>
+                                            <div class="col-8 pt-2">
+                                                <span class="fw-bold text-black">Athom's Mbuma N.</span><br>
+                                                <small class="fw-normal text-black">Coordonnateur International<br>GAEL MINISTRIES</small>
+                                            </div>
+                                        </div>        
                                     </div>
                                 </div>
-                            </div>
+
+                                <span class="fs-6">
+                                    Les dernières années que viennent de passer dans ces ministères ont été les plus émouvantes et les plus agitées ; 
+                                    elles ont laissées après elles beaucoup de douleurs et de confusion. Mais l'heure n'est plus à l'agitation et au 
+                                    deuil, le temps n'est plus à la distraction et la peur ; car beaucoup d'adorateurs venus de loin attendent que 
+                                    l'étoile de GAEL paraisse dans le ciel pour indiquer l'endroit où se trouve le roi de juif pour l'adorer.
+                                </span>
+                            </p>
+
+                            <p class="fs-6">
+                                L'un des grands rêves de notre regretté père Alain MOLOTO était de voir une armée d'adorateurs se lever pour 
+                                glorifier Jésus-Christ parmi les nations, une race de ceux qui répondent aux critères que christ révèle dans 
+                                l'avis de recherche du père. Et depuis le 22 septembre 2013, date à laquelle cette nouvelle responsabilité nous 
+                                a été confiée, nous sommes conscient de l'obligation de porter l'étendard plus haut et d'amener la conquête dans la terre promise.
+                            </p>
+
+                            <p class="fs-6">
+                                C'est pour cette raison que je me permets de vous écrire, à vous tous qui êtes GAEL d'une manière ou
+                                d'une autre, à vous tous qui partagez la même espérance que nous.
+                                Nous sommes la génération de l'accomplissement, ceux qui sont choisi pour entrer dans le pays ; nos
+                                défis seront certes différents, mais la vision doit demeurer exactement la même ; les méthodes vont
+                                obligatoirement changer, mais notre coeur d'adorateur doit rester le même dans toutes les générations.
+                            </p>
+
+                            <p class="fs-6">
+                                Si vous aviez souvent pensé à GAEL, eh bien ! Maintenant il faut commencer à prier pour GAEL, afin que
+                                rien ne nous empêche d'atteindre le but du seigneur dans cette saison, ni le diable, ni la division, ni les
+                                hommes, ni la chaire, ni la convoitise sous toutes ses formes.<br>
+                                Si vous aviez souvent conseillé GAEL, eh bien ! Maintenant il faut contribuer dans l'oeuvre, à travers ce
+                                que vous êtes et avec ce vous avez, soutenir de jour et de nuit par vos prière, votre présence et vos
+                                finances ; afin que nous nous concentrions à l'essentiel au lieu de nous soucier de ce qui peut nous
+                                distraire.
+                            </p>
+
+                            <p class="fs-6 mb-0">
+                                Et enfin si vous aviez parlé de GAEL, eh bien ! Maintenant il faut devenir GAEL, devenir un membre actif
+                                de ce travail en vous y rapprochant le plus que possible.<br>
+                                Je crois de tout mon coeur qu'il est plus que temps de tourner le regard de l'église en direction de
+                                l'époux qui vient, il est l'heure d'honorer le sauveur plutôt que de parler du voleur ; il est temps d'adorer
+                                le Rois de gloire, venez, et Adorons l'Eternel !
+                            </p>
                         </div>
                     </div>
                 </div>
             </section>
-            <!--=============== gael kids ==================-->
+            <!--=============== coordinator words ==================-->
+
+            <!--================= gael ministries ================-->
+            <section class="page-section-ptb">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 position-relative">
+                            <div class="bg-image d-lg-inline-block d-none position-absolute h-100 overflow-hidden" style="width: 90%;">
+                                <img src="{{ asset('img/gael_ministries.png') }}" alt="" class="h-100">
+                                <div class="mask"></div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-9">
+                            <div class="section-title mt-lg-3 mb-3">
+                                <h6 class="text-secondary">Redécouvrir</h6>
+                                <h2 class="title-effect mb-0">GAEL MINISTRIES</h2>
+                            </div>
+
+                            <div class="bg-image d-lg-none d-inline-block mb-3">
+                                <img src="{{ asset('img/gael_ministries_sm.png') }}" alt="" class="img-fluid">
+                                <div class="mask"></div>
+                            </div>
+
+                            <p style="text-align: justify;">
+                                <span class="dropcap gray square">P</span> 
+                                <span class="fs-6">
+                                    lusieurs personnes ce sont toujours poser  la question de savoir ce que le mot GAEL signifie, 
+                                    et à cela s’est ajouter cet engoulement au sujet de l’appellation anglaise « MINISTRIES ». 
+                                    Prenons aujourd’hui le temps de tout expliquer avec précision pour vous tous qui aimer et server cette oeuvre.
+                                </span>
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                GAEL est une sorte d’abréviation, une anagramme qui vient de Groupe Adorons l’Eternel, on peut aussi 
+                                considérer les deux premières lettres comme des initiaux et les deux dernier comme le nom de Dieu en hébreux « El ».
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                Crée le 07 MARS 1998 à Kinshasa par le frère ALAIN MOLOTO KOSSY, GAEL a toujours été un ministère chrétien 
+                                qui contient plusieurs activités et qui s’exprimaient le plus par son département de musique appelé 
+                                GAEL MUSIC ; c’est pour cette raison que le souvenir le plus frais que chacun possède de ce travail est bel 
+                                est bien celui d’un groupe musical des adorateurs qui édifient le corps du christ par un répertoire spirituel très consistant.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                Pourtant, depuis plusieurs années déjà Gael a fait fonctionner plusieurs autres départements appelés aussi 
+                                ministères. Un département d’enseignement appelé CINAD (communauté internationale des adorateurs) , un
+                                centre de réinsertion des enfants abandonnés CREA, un département de media qui produisait des émissions d’adoration et des livres chrétiens.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                Le mot anglais « MINISTRIES » est le pluriel du mot ministère en français et il a au singulier (MINISTRY) 
+                                toujours accompagné pendant longtemps le slogan qui est au bas du logos de GAEL. Et pendant cette saison nous 
+                                avons compris qu’il était important de mettre en avant tous les moyens que le Seigneur a donné à cette oeuvre 
+                                pour accomplir sa mission, d’où la pluralité de ces ministres qui fonctionnent tous pour une même vision.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== gael ministries ==================-->
 
             <!--================= founder ================-->
             <section class="page-section-ptb bg-overlay-black-60 jarallax" data-speed="0.6" data-img-src="{{ asset('img/founder.jpg') }}">
@@ -264,7 +331,7 @@
                                 <h2 class="mb-4 text-white">Hébreux 13:15</h2>
                                 <p class="text-warning fs-3" style="letter-spacing: 1.5px; line-height: 2.3rem;">
                                     <i class="fa fa-quote-left me-2"></i>
-                                    Par lui, offrons sans cesse à Dieu un sacrifice de louange, c’est-à-dire le fruit de lèvres qui confessent son Nom.
+                                    Par lui, offrons sans cesse à Dieu un sacrifice de louange, c'est-à-dire le fruit de lèvres qui confessent son Nom.
                                     <i class="fa fa-quote-right ms-2"></i>
                                 </p>
                                 <p class="m-0"><a href="{{ route('about.home') }}" class="button border white mt-5 text-dark">Découvrez &laquo; 24 heures &raquo;</a></p>

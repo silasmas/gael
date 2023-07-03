@@ -64,13 +64,14 @@
                         <div class="col-lg-8 col-sm-6">
                             <div class="section-title mt-lg-4">
                                 <p class="fs-5 fw-light text-white" style="letter-spacing: 1.6px; line-height: 2.3rem;">
-                                    Nous visons un corps du Christ fort et stable dans sa relation avec Dieu et conscient des richesses d'une vie d'adorateur sur le plan personnel et communautaire (l'Eglise et la nation).
+                                    Nous existons pour participer à la restauration et au dynamisme de louange et de
+                                    l’adoration dans le corps du christ par l’utilisation des moyens de communication
+                                    médiatique, littéraire et phonographique.
                                 </p>
                                 <p class="my-4 fs-5 fw-light text-white" style="letter-spacing: 1.6px; line-height: 2.3rem;">
-                                    Nous existons pour participer à la restauration et au dynamisme de louange et de l'adoration dans le corps du Christ par l'utilisation des moyens de communication médiatique, littéraire et phonographique.
-                                </p>
-                                <p class="mt-4 mb-0 fs-5 fw-light text-info" style="letter-spacing: 1.6px; line-height: 2.3rem;">
-                                    &laquo; Au-delà des mots, une vie attend d'être vécue. &raquo;
+                                    Nous visons un corps du christ fort et stable dans sa relation avec Dieu et conscient des
+                                    richesses d’une vie d’adorateur sur le plan personnel et communautaire (l’église et la
+                                    nation).
                                 </p>
                             </div>
                         </div>
@@ -109,6 +110,106 @@
                                 <img src="{{ asset('img/mission.jpg') }}" alt="" class="img-fluid" style="border-radius: 1.5rem;">
                                 <div class="mask"></div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="page-section-ptb contact-2 py-5 bg-light">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="section-title mb-3">
+                                <h2 class="mb-0 text-info">Valeurs :</h2>
+                            </div>
+
+                            <p class="fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                La bible qui est notre code de conduite enseigne plusieurs fois le bien fondé de s’attacher
+                                à des valeurs qui nous conduisent à l’accomplissement du plan de Dieu à travers nous. Oui
+                                ! Chaque fois que Dieu fait une promesse, il exige aussi un certain nombre des valeurs
+                                auxquelles il faut tenir. Il conditionne son accompagnement, son soutien et sa manifestation
+                                par notre fidélité à sa loi, notre intégrité, la crainte de son nom, l’obéissance à ses
+                                voies, notre attitude face à nos semblables etc.
+                            </p>
+                            <p class="my-4 fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                Voilà ce qu’on appelle les valeurs principales d’une personne ou d’une organisation. Il
+                                s’agit donc d’un côté, les qualités que le seigneur a déjà placées en nous et qu’il aime
+                                nous voir exprimer et qui font notre particularité devant lui ; et de l’autre côté, les
+                                qualités qu’il nous faut obligatoirement avoir, selon l’ordre du seigneur, si nous voulons
+                                atteindre avec succès les buts qu’il a fixé à notre existence en tant que personne ou
+                                organisation.
+                            </p>
+                            <p class="mt-4 mb-0 fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                Abraham avait une foi exceptionnelle qui lui fut imputé à justice, mais le seigneur lui
+                                demanda aussi d’être intègre devant sa face ; les églises d’apocalypse avaient pour la
+                                plus part un sujet d’encourage, des valeurs appréciées par le seigneur, puis après
+                                venaient alors la reproche sur des valeurs négligées qui causaient leur perte.
+                                Quelles sont donc nos valeurs entant que ministère ? Famille chrétienne ? Et adorateurs
+                                de Dieu ?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="page-section-ptb contact-2 py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <p class="fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                <strong class="fw-bold">Etre vrai</strong> :  L’une des conditions de la véritable adoration est la qualité de vie de l’adorateur,
+                                il faut que celui qui l’adore, l’adore en esprit et en vérité. (JN 4 :23) être GAEL c’est
+                                accepter de vivre dans la crainte de Dieu sans aucune duplicité, être ce qu’on enseigne
+                                aux autres, se concentrer sur ce qu’on devient soi-même par la fréquentation permanente
+                                de la présence de Dieu et non être emporter par les avoirs passagers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="page-section-ptb contact-2 py-5" style="background-color: rgb(252, 231, 231);">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <p class="fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                <strong class="fw-bold">Etre prêt</strong> :  L’oeuvre du seigneur exige de nous une consécration totale, une très grande
+                                disponibilité. Celui qui veut être GAEL doit savoir que le seigneur aura besoin de nous
+                                n’importe quand selon son désir et que surtout il aura besoin de passer l’éternité avec
+                                nous ? Nous devons donc être prêts à répondre à son appel pour ce siècle et pour
+                                l’avenir. (Esaïe 6 :8)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="page-section-ptb contact-2 py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <p class="fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                <strong class="fw-bold">Etre un</strong> :  Jésus a lancé un appel, un avis de recherche de plusieurs adorateurs et non d’un
+                                seul, il veut qu’ils viennent en grand nombre mais qu’ils soient tous un comme le père et
+                                le fils le sont. (JN 17 :22) Et nous sommes conscients que nous nous pourrons être utiles
+                                au Saint-Esprit qu’à la mesure où nous favoriserons l’unité au milieu. (Actes 2 :1) Celui qui
+                                veut être GAEL doit savoir abandonner ses intérêts personnels et faire valoir les objectifs du groupe.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="page-section-ptb contact-2 py-5" style="background-color: rgb(247, 231, 180);">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <p class="fs-6 fw-light" style="text-align: justify; letter-spacing: 1.3px; line-height: 2rem;">
+                                <strong class="fw-bold">Etre là</strong> :  l’oeuvre à laquelle nous sommes appelés exige notre présence dans le corps du
+                                christ et dans la société. Celui qui veut être GAEL doit apprendre à affirmer l’existence
+                                de cette oeuvre par les moyens médiatique car notre rôle n’est pas de nous cacher avec
+                                timidité, mais de crier tout haut par l’Esprit qui nous pousse à adorer le père. (Romains 8 :15)
+                            </p>
                         </div>
                     </div>
                 </div>
