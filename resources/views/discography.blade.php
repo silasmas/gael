@@ -263,7 +263,7 @@
             </section>
             <!--=============== album solo ==================-->
 
-            <!--=============== hands ==================-->
+            <!--=============== sublime parfum qui chante ==================-->
             <section class="page-section-ptb py-5">
                 <div class="container">
                     <div class="row">
@@ -313,6 +313,78 @@
                     </div>
                 </div>
             </section>
-            <!--=============== hands ==================-->
+            <!--=============== sublime parfum qui chante ==================-->
+
+            <!--=============== sanjola ==================-->
+            <section class="page-section-ptb py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <div class="section-title mt-lg-3 mb-3">
+                                <h2 class="mb-0 text-danger text-uppercase">Sanjola</h2>
+                            </div>
+
+                            <div class="bg-image d-lg-none d-inline-block mb-3">
+                                <img src="{{ asset('img/albums/cover-extract-00.jpg') }}" alt="" class="img-fluid">
+                                <div class="mask"></div>
+                            </div>
+
+                            <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
+                                Le concept « SANJOLA » (vient du Lingala et signifie « célébrer, louer ») est le message
+                                principal du plan de relance des activités de GAEL après la mort du fondateur des
+                                ministères.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
+                                Tiré de la décision de Léa de louer Dieu plutôt que de continuer à se soucier de sa
+                                situation, GAEL voudrai amener le corps du christ à une réaction de louange et de reconnaissance
+                                à Dieu devant n’importe quelle circonstance de la vie.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
+                                Genèse 29:35 « Elle devint encore enceinte, et enfanta un fils, et elle dit : Cette fois, je
+                                louerai l’Eternel. C’est pourquoi elle lui donna le nom de Juda. Et elle cessa d’enfanter. »
+                                (LSG)
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
+                                Tiré des lèvres d’Alain MOLOTO qui ne cessait de le répéter chaque fois qu’il conduisait la
+                                louange pour attirer l’attention de ceux qui se sont lassés dans la célébration et encourager
+                                l’assemblée à une sorte de second souffle dans le culte.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
+                                « SANJOLA ! KO KAWUKA MALOBA TE ! SANJOLA ! » « célèbre, et n’arrête pas parler »
+                                SANJOLA est un grand moment d’exaltation du seigneur jésus qui se vie en live dans un
+                                concert de célébration à Kinshasa ou dans d’autres villes où le seigneur conduit son
+                                oeuvre.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
+                                La première célébration SANJOLA a eu lieu le 13 juillet 2014 au Parking du grand Hôtel
+                                Kinshasa en RDC et la seconde a eu lieu le 19 juillet 2015 au même endroit.
+                                Pour l’année 2016, il est prévu 5 célébrations de SANJOLA dans différentes villes selon
+                                l’ordre suivant :
+                            </p>
+
+                            <ul class="ms-4">
+                                <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">BRAZZAVILLE : JUIN 2016</li>
+                                <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">POINT NOIRE : JUIN 2016</li>
+                                <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">KINSHASA : 10 JUILLET 2016</li>
+                                <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">KOLWEZI : 17 JUILLET 2016</li>
+                                <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">LUBUMBASHI : 24 JUILLET 2016</li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-4 position-relative">
+                            <div class="bg-image d-lg-inline-block d-none position-absolute h-100 overflow-hidden" style="width: 90%;">
+                                <img src="{{ asset('img/albums/cover-extract-00.jpg') }}" alt="" class="h-100" style="margin-left: -10rem">
+                                <div class="mask"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== sanjola ==================-->
 
 @endsection
