@@ -3,7 +3,7 @@
 @section('guest-content')
 
             <!--================ page title =================-->
-            <section class="page-title bg-overlay-black-70 jarallax" data-speed="0.6" data-img-src="{{ asset('img/team01.png') }}" style="padding-top: 140px;">
+            <section class="page-title bg-overlay-black-70 jarallax" data-speed="0.6" data-img-src="{{ asset('img/team02.jpg') }}" style="padding-top: 140px;">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
