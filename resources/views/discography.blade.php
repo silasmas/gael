@@ -325,7 +325,7 @@
                             </div>
 
                             <div class="bg-image d-lg-none d-inline-block mb-3">
-                                <img src="{{ asset('img/albums/cover-extract-00.jpg') }}" alt="" class="img-fluid">
+                                <img src="{{ asset('img/albums/cover-extract-01.jpg') }}" alt="" class="img-fluid">
                                 <div class="mask"></div>
                             </div>
 
@@ -378,7 +378,7 @@
 
                         <div class="col-lg-4 position-relative">
                             <div class="bg-image d-lg-inline-block d-none position-absolute h-100 overflow-hidden" style="width: 90%;">
-                                <img src="{{ asset('img/albums/cover-extract-00.jpg') }}" alt="" class="h-100" style="margin-left: -10rem">
+                                <img src="{{ asset('img/albums/cover-extract-01.jpg') }}" alt="" class="h-100" style="margin-left: -30rem">
                                 <div class="mask"></div>
                             </div>
                         </div>
