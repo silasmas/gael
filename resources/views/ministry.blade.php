@@ -488,8 +488,9 @@
                                 <div class="col-lg-4 col-sm-6 col-12 mx-auto">
                                     <ul class="ms-lg-0 ms-3">
                                         <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">POINT NOIRE,</li>
-                                        <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">KABINDA,</li>
-                                        <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">LUANDA.</li>
+                                        <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">LUANDA,</li>
+                                        <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">LONDRES,</li>
+                                        <li class="fs-6" style="letter-spacing: 1px; line-height: 2rem;">IRLANDE.</li>
                                     </ul>
                                 </div>
                             </div>

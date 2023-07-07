@@ -138,8 +138,8 @@
                         </div>
 
                         <ul class="addresss-info">
-                            <li><i class="fa fa-map-marker"></i><p>162, avenue Baraka, commune de Kinshasa</p></li>
-                            <li><i class="fa fa-phone"></i> <a href="tel:7042791249"><span>+(243) 819-012-363</span></a></li>
+                            <li><i class="fa fa-map-marker"></i><p>0115, avenue Sadiki, 14<small class="d-inline-block align-top">ème</small> Rue, Industriel, commune de Limete, KinshasaKinshasa</p></li>
+                            <li><i class="fa fa-phone"></i> <a href="tel:7042791249"><span>+(243) 851-728-486</span></a></li>
                             <li><i class="fa fa-envelope-o"></i> <a href="mailto:contact@groupegael.com"><span>contact@groupegael.com</span></a></li>
                         </ul>
                     </div>

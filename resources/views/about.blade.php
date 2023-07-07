@@ -335,7 +335,7 @@
                             <div class="text-center">
                                 <i class="ti-map-alt"></i>
                                 <h4 class="mt-15">Adresse</h4>
-                                <p>162, avenue Baraka, commune de Kinshasa</p>
+                                <p>0115, avenue Sadiki, 14<small class="d-inline-block align-top">ème</small> Rue, Industriel, commune de Limete, KinshasaKinshasa</p>
                             </div>
                         </div>
 
@@ -343,7 +343,7 @@
                             <div class="text-center">
                                 <i class="ti-mobile text-white"></i>
                                 <h4 class="text-white mt-15">Appelez-nous</h4>
-                                <p class="text-white">+(243) 819-012-363</p>
+                                <p class="text-white">+(243) 851-728-486</p>
                             </div>
                         </div>
 
