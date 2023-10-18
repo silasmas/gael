@@ -39,11 +39,11 @@
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 5 -->
                                 <div class="tp-caption tp-resizeme rev-color" id="slide-767-layer-1" data-x="385" data-y="center" data-voffset="-15" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":300,"speed":2000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 400px; line-height: 400px; font-weight: 700; color: #84ba3f; letter-spacing: 0px;font-family:Lato;">
-                                    S<span class="opacity-40">anjola</span>
+                                    G<span class="opacity-40">AEL</span>
                                 </div>
                                 <!-- LAYER NR. 6 -->
                                 <div class="tp-caption tp-resizeme" id="slide-767-layer-2" data-x="708" data-y="center" data-voffset="32" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 70px; line-height: 70px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;">
-                                    L'événement annuel <br /> est bientôt <br /> de retour
+                                    Ministries
                                 </div>
                                 <!-- LAYER NR. 7 -->
                                 <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rev-bg" id="slide-767-layer-3" data-x="center" data-hoffset="350" data-y="center" data-voffset="42" data-width="['3']" data-height="['130']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":3260,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7;background-color:rgb(132,186,63);">
@@ -61,11 +61,11 @@
                                 <!-- LAYERS -->
                                 <!-- LAYER NR. 5 -->
                                 <div class="tp-caption tp-resizeme rev-color" id="slide-767-layer-1" data-x="385" data-y="center" data-voffset="-15" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":300,"speed":2000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 400px; line-height: 400px; font-weight: 700; color: #84ba3f; letter-spacing: 0px;font-family:Lato;">
-                                    S<span class="opacity-40">anjola</span>
+                                    G<span class="opacity-40">AEL</span>
                                 </div>
                                 <!-- LAYER NR. 6 -->
                                 <div class="tp-caption tp-resizeme" id="slide-767-layer-2" data-x="708" data-y="center" data-voffset="32" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 70px; line-height: 70px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;">
-                                    L'événement annuel <br /> est bientôt <br /> de retour
+                                    Ministries
                                 </div>
                                 <!-- LAYER NR. 7 -->
                                 <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rev-bg" id="slide-767-layer-3" data-x="center" data-hoffset="350" data-y="center" data-voffset="42" data-width="['3']" data-height="['130']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":3260,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7;background-color:rgb(132,186,63);">
@@ -84,77 +84,137 @@
             </section>
             <!--================ banner =================-->
 
-            <!--================= gael kids ================-->
-            <section class="page-section-ptb">
+            <!--================= coordinator words ================-->
+            <section class="py-5 page-section-ptb bg-light">
                 <div class="container">
-                    <div class="row g-lg-5">
-                        <div class="col-md-6 sm-mb-30">
-                            <div class="owl-carousel bottom-center-dots" data-nav-dots="ture" data-smartspeed="1200" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" style="border-radius: 1.5rem; overflow: hidden;">
-                                <div class="item">
-                                    <img class="img-fluid" src="{{ asset('img/gk/gk-01.jpg') }}" alt="">
-                                </div>
-                                <div class="item">
-                                    <img class="img-fluid" src="{{ asset('img/gk/gk-02.jpg') }}" alt="">
-                                </div>
+                    <div class="row">
+                        <div class="mx-auto col-lg-8 col-md-6">
+                            <div class="text-center section-title">
+                                <h2 class="title-effect text-uppercase">Mot du coordon. Int'l</h2>
                             </div>
                         </div>
 
-                        <div class="col-md-6">
-                            <div class="section-title mt-lg-5">
-                                <h6 class="text-secondary">GAEL Kids</h6>
-                                <h2 class="title-effect">Nouvelle génération d'adorateurs</h2>
-                            </div>
-
+                        <div class="col-12" style="text-align: justify;">
                             <p>
-                                <span class="dropcap gray square">N</span> <span class="fs-6">ous recrutons les adorateurs de Jésus-Christ dans toutes générations quel que soit l'âge et l'occupation</span>
-                            </p>
-
-                            <div class="mt-30">
-                                <button type="button" class="mb-10 mr-10 button icon" data-bs-toggle="modal" data-bs-target="#exampleModal">Commencer l'inscription</button>
-
-                                <!-- Modal -->
-                                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header align-items-start">
-                                                <div class="modal-title" id="exampleModalLabel">
-                                                    <div class="mb-10 section-title">
-                                                        <h6>GAEL Kids</h6>
-                                                        <p>Incrivez-vous pour commencer</p>
-                                                    </div>
+                                <div class="mb-4 card d-sm-inline-block me-3 float-sm-start shadow-0">
+                                    <div class="card-body">
+                                        <div class="row g-2">
+                                            <div class="col-4">
+                                                <div class="bg-image">
+                                                    <img src="{{ asset('img/coordinator.png') }}" alt="" width="85" height="85" class="rounded-circle me-2">
+                                                    <div class="mask"></div>
                                                 </div>
-
-                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                             </div>
-
-                                            <div class="modal-body">
-                                                <form method="post" action="#">
-                                                    <div class="clearfix contact-form">
-                                                        <input id="name" type="text" placeholder="Name*" class="form-control"  name="name">
-                                                        <input type="email" placeholder="Email*" class="form-control" name="email">
-                                                        <input type="text" placeholder="Phone*" class="form-control" name="phone">
-
-                                                        <button type="submit" class="button btn-block"><span>Enregistrer</span></button>
-                                                    </div>
-                                                </form>
-                                            </div>
-
-                                            <div class="modal-footer">
-                                                    {{-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> --}}
-                                                </div>
+                                            <div class="pt-2 col-8">
+                                                <span class="text-black fw-bold">Athom's Mbuma N.</span><br>
+                                                <small class="text-black fw-normal">Coordonnateur International<br>GAEL MINISTRIES</small>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+
+                                <span class="fs-6 teaser">
+                                    Les dernières années que viennent de passer dans ces ministères ont été les plus émouvantes et les plus agitées ;
+                                    elles ont laissées après elles beaucoup de douleurs et de confusion. Mais l'heure n'est plus à l'agitation et au
+                                    deuil, le temps n'est plus à la distraction et la peur ; car beaucoup d'adorateurs venus de loin attendent que <span class="mEllipsis">. . .</span>
+                                    <span class="complete d-none">l'étoile de GAEL paraisse dans le ciel pour indiquer l'endroit où se trouve le roi de juif pour l'adorer.
+                                    <br><br>
+                                    L'un des grands rêves de notre regretté père Alain MOLOTO était de voir une armée d'adorateurs se lever pour
+                                    glorifier Jésus-Christ parmi les nations, une race de ceux qui répondent aux critères que christ révèle dans
+                                    l'avis de recherche du père. Et depuis le 22 septembre 2013, date à laquelle cette nouvelle responsabilité nous
+                                    a été confiée, nous sommes conscient de l'obligation de porter l'étendard plus haut et d'amener la conquête dans la terre promise.
+                                    <br><br>
+                                    C'est pour cette raison que je me permets de vous écrire, à vous tous qui êtes GAEL d'une manière ou
+                                    d'une autre, à vous tous qui partagez la même espérance que nous.
+                                    Nous sommes la génération de l'accomplissement, ceux qui sont choisi pour entrer dans le pays ; nos
+                                    défis seront certes différents, mais la vision doit demeurer exactement la même ; les méthodes vont
+                                    obligatoirement changer, mais notre coeur d'adorateur doit rester le même dans toutes les générations.
+                                    <br><br>
+                                    Si vous aviez souvent pensé à GAEL, eh bien ! Maintenant il faut commencer à prier pour GAEL, afin que
+                                    rien ne nous empêche d'atteindre le but du seigneur dans cette saison, ni le diable, ni la division, ni les
+                                    hommes, ni la chaire, ni la convoitise sous toutes ses formes.<br>
+                                    Si vous aviez souvent conseillé GAEL, eh bien ! Maintenant il faut contribuer dans l'oeuvre, à travers ce
+                                    que vous êtes et avec ce vous avez, soutenir de jour et de nuit par vos prière, votre présence et vos
+                                    finances ; afin que nous nous concentrions à l'essentiel au lieu de nous soucier de ce qui peut nous
+                                    distraire.
+                                    <br><br>
+                                    Et enfin si vous aviez parlé de GAEL, eh bien ! Maintenant il faut devenir GAEL, devenir un membre actif
+                                    de ce travail en vous y rapprochant le plus que possible.<br>
+                                    Je crois de tout mon coeur qu'il est plus que temps de tourner le regard de l'église en direction de
+                                    l'époux qui vient, il est l'heure d'honorer le sauveur plutôt que de parler du voleur ; il est temps d'adorer
+                                    le Rois de gloire, venez, et Adorons l'Eternel !</span>
+                                </span>
+                            </p>
+                            <button class="px-2 py-1 border-0 see_more btn btn-sm btn-info shadow-0" style="text-transform: inherit!important;">Voir plus</button>
                         </div>
                     </div>
                 </div>
             </section>
-            <!--=============== gael kids ==================-->
+            <!--=============== coordinator words ==================-->
+
+            <!--================= gael ministries ================-->
+            <section class="page-section-ptb">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 position-relative">
+                            <div class="overflow-hidden bg-image d-lg-inline-block d-none position-absolute h-100" style="width: 90%;">
+                                <img src="{{ asset('img/gael_ministries.png') }}" alt="" class="h-100">
+                                <div class="mask"></div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-9">
+                            <div class="mb-3 section-title mt-lg-3">
+                                <h6 class="text-secondary">Redécouvrir</h6>
+                                <h2 class="mb-0 title-effect">GAEL MINISTRIES</h2>
+                            </div>
+
+                            <div class="mb-3 bg-image d-lg-none d-inline-block">
+                                <img src="{{ asset('img/gael_ministries_sm.png') }}" alt="" class="img-fluid">
+                                <div class="mask"></div>
+                            </div>
+
+                            <p style="text-align: justify;">
+                                <span class="dropcap gray square">P</span>
+                                <span class="fs-6">
+                                    lusieurs personnes ce sont toujours poser  la question de savoir ce que le mot GAEL signifie,
+                                    et à cela s’est ajouter cet engoulement au sujet de l’appellation anglaise « MINISTRIES ».
+                                    Prenons aujourd’hui le temps de tout expliquer avec précision pour vous tous qui aimer et server cette oeuvre.
+                                </span>
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                GAEL est une sorte d’abréviation, une anagramme qui vient de Groupe Adorons l’Eternel, on peut aussi
+                                considérer les deux premières lettres comme des initiaux et les deux dernier comme le nom de Dieu en hébreux « El ».
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                Crée le 07 MARS 1998 à Kinshasa par le frère ALAIN MOLOTO KOSSY, GAEL a toujours été un ministère chrétien
+                                qui contient plusieurs activités et qui s’exprimaient le plus par son département de musique appelé
+                                GAEL MUSIC ; c’est pour cette raison que le souvenir le plus frais que chacun possède de ce travail est bel
+                                est bien celui d’un groupe musical des adorateurs qui édifient le corps du christ par un répertoire spirituel très consistant.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                Pourtant, depuis plusieurs années déjà Gael a fait fonctionner plusieurs autres départements appelés aussi
+                                ministères. Un département d’enseignement appelé CINAD (communauté internationale des adorateurs) , un
+                                centre de réinsertion des enfants abandonnés CREA, un département de media qui produisait des émissions d’adoration et des livres chrétiens.
+                            </p>
+
+                            <p class="fs-6" style="text-align: justify;">
+                                Le mot anglais « MINISTRIES » est le pluriel du mot ministère en français et il a au singulier (MINISTRY)
+                                toujours accompagné pendant longtemps le slogan qui est au bas du logos de GAEL. Et pendant cette saison nous
+                                avons compris qu’il était important de mettre en avant tous les moyens que le Seigneur a donné à cette oeuvre
+                                pour accomplir sa mission, d’où la pluralité de ces ministres qui fonctionnent tous pour une même vision.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== gael ministries ==================-->
 
             <!--================= founder ================-->
-            <section class="page-section-ptb bg-overlay-black-60 jarallax" data-speed="0.6" data-img-src="{{ asset('img/founder.jpg') }}">
+            <section class="page-section-ptb bg-overlay-black-60 jarallax" data-speed="0.6" data-img-src="{{ asset('img/founder00.jpg') }}">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
@@ -169,133 +229,6 @@
                 </div>
             </section>
             <!--=============== founder ==================-->
-
-            <!--================= last event ================-->
-            <section class="portfolio-home gray-bg o-hidden">
-                <div class="p-0 container-fluid">
-                    <div class="row">
-                        <div class="col-lg-4">
-                            <div class="portfolio-title section-title mt-md-2">
-                                <h6>Retour en image</h6>
-                                <h2 class="title-effect">Sanjola 2020</h2>
-                                <a href="#" class="button mt-30 btn-sm">Voir toutes les images</a>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-8">
-                            <div class="isotope popup-gallery columns-3 no-padding">
-                                <div class="grid-item">
-                                    <div class="portfolio-item">
-                                        <img src="{{ asset('img/l-evt/2020/evt-1.jpg') }}" alt="">
-                                        <div class="portfolio-overlay">
-                                            <h4 class="text-white"> <a href="#">Post item image 1</a> </h4>
-                                            <span class="text-white"> <a href="#"> Post image  </a>| <a href="#">First</a> </span>
-                                        </div>
-                                        <a class="popup portfolio-img" href="{{ asset('img/l-evt/2020/evt-1.jpg') }}"><i class="fa fa-arrows-alt"></i></a>
-                                    </div>
-                                </div>
-                                <div class="grid-item">
-                                    <div class="portfolio-item">
-                                        <img src="{{ asset('img/l-evt/2020/evt-3.jpg') }}" alt="">
-                                        <div class="portfolio-overlay">
-                                            <h4 class="text-white"> <a href="#">Post item image 2</a> </h4>
-                                            <span class="text-white"> <a href="#"> Post image  </a>| <a href="#">Second</a> </span>
-                                        </div>
-                                        <a class="popup portfolio-img" href="{{ asset('img/l-evt/2020/evt-3.jpg') }}"><i class="fa fa-arrows-alt"></i></a>
-                                    </div>
-                                </div>
-                                <div class="grid-item">
-                                    <div class="portfolio-item">
-                                        <img src="{{ asset('img/l-evt/2020/evt-2.jpg') }}" alt="">
-                                        <div class="portfolio-overlay">
-                                            <h4 class="text-white"> <a href="#"> Post item Youtube</a> </h4>
-                                            <span class="text-white"> <a href="#"> Video  </a>| <a href="#">Youtube </a> </span>
-                                        </div>
-                                        <a class="popup popup-youtube" href="http://www.youtube.com/embed/_dXYn-DZrFM?rel=0"><i class="fa fa-play"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--=============== last event ==================-->
-
-            <!--================= resources ================-->
-            <section class="our-services page-section-ptb white-bg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12">
-                            <div class="text-center section-title">
-                                <h6>Lecture et téléchargement</h6>
-                                <h1 class="title-effect">Nos ressources</h1>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-lg-4 col-md-4">
-                            <div class="p-4 text-center border feature-text mb-30 gray-bg border-default">
-                                <div class="feature-icon">
-                                    <span aria-hidden="true" class="mb-2 fa fa-headphones display-3"></span>
-                                </div>
-                                <div class="fature-info">
-                                    <h4 class="pt-20 pb-10 text-back fw-bold">Méditations</h4>
-                                    <p>Sélectionner la méditation de votre choix et envoyez vos prières.</p>
-                                    <a class="mt-20 button" href="#">Détails &raquo;</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-4">
-                            <div class="p-4 text-center border feature-text mb-30 gray-bg border-default">
-                                <div class="feature-icon">
-                                    <span aria-hidden="true" class="mb-2 fa fa-music display-3"></span>
-                                </div>
-                                <div class="fature-info">
-                                    <h4 class="pt-20 pb-10 text-back fw-bold">Musique</h4>
-                                    <p>Ecoutez, Commandez ou Télécharger la musique ou suivez des émissions.</p>
-                                    <a class="mt-20 button" href="#">Détails &raquo;</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-4">
-                            <div class="p-4 text-center border feature-text mb-30 gray-bg border-default">
-                                <div class="feature-icon">
-                                    <span aria-hidden="true" class="mb-2 fa fa-book display-3"></span>
-                                </div>
-                                <div class="fature-info">
-                                    <h4 class="pt-20 pb-10 text-back fw-bold">Livres</h4>
-                                    <p>Télécharger les livres de vos auteurs préférés. Ou bien commandez des livres en papier.</p>
-                                    <a class="mt-20 button" href="#">Détails &raquo;</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--=============== resources ==================-->
-
-            <!--================= citation ================-->
-            <section class="page-section-ptb bg-overlay-black-70 jarallax" data-speed="0.6" data-img-src="{{ asset('img/citation.jpg') }}">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="text-center section-title">
-                                <h2 class="mb-4 text-white">Hébreux 13:15</h2>
-                                <p class="text-warning fs-3" style="letter-spacing: 1.5px; line-height: 2.3rem;">
-                                    <i class="fa fa-quote-left me-2"></i>
-                                    Par lui, offrons sans cesse à Dieu un sacrifice de louange, c’est-à-dire le fruit de lèvres qui confessent son Nom.
-                                    <i class="fa fa-quote-right ms-2"></i>
-                                </p>
-                                <p class="m-0"><a href="{{ route('about.home') }}" class="mt-5 border button white text-dark">Découvrez &laquo; 24 heures &raquo;</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--=============== citation ==================-->
 
             <!--================= gael TV ================-->
             <section class="page-section-ptb">
@@ -314,12 +247,32 @@
 
                         <div class="col-md-6">
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe src="http://www.youtube.com/embed/_dXYn-DZrFM?rel=0" class="embed-responsive-item" data-gtm-yt-inspected-2340190_699="true" data-gtm-yt-inspected-2340190_908="true" allowfullscreen=""></iframe>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/3SxK9DPMVMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
             <!--=============== gael TV ==================-->
+
+            <!--================= citation ================-->
+            <section class="page-section-ptb bg-overlay-black-70 jarallax" data-speed="0.6" data-img-src="{{ asset('img/citation.jpg') }}">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="text-center section-title">
+                                <h2 class="mb-4 text-white">Hébreux 13:15</h2>
+                                <p class="text-warning fs-3" style="letter-spacing: 1.5px; line-height: 2.3rem;">
+                                    <i class="fa fa-quote-left me-2"></i>
+                                    Par lui, offrons sans cesse à Dieu un sacrifice de louange, c'est-à-dire le fruit de lèvres qui confessent son Nom.
+                                    <i class="fa fa-quote-right ms-2"></i>
+                                </p>
+                                <p class="m-0"><a href="{{ route('ministry.home') }}" class="mt-5 border button white text-dark">Découvrez &laquo; 24 heures &raquo;</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--=============== citation ==================-->
 
 @endsection
