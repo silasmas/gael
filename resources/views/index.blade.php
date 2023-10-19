@@ -177,95 +177,16 @@
 <!--================ banner =================-->
 
 <!--================= coordinator words ================-->
-{{-- <section class="action-box pattern full-width mb-80" style="background: url(img/slides/img5.png) repeat;">
-    <div class="container">
-      <div class="row">
-       <div class="col-lg-12 col-md-12 position-relative">
-          <div class="action-box-text">
-           {{-- <h3><strong> Webster: </strong> The most powerful template ever on the market</h3>
-           <p>Create tailor-cut websites with the exclusive multi-purpose responsive template along with powerful features.</p>
-           </div>
-           <div class="action-box-button">
-          <a class="button button-border black" href="#">
-            <span>Purchase Now</span>
-            <i class="fa fa-download"></i>
-         </a>
-         </div>
-      </div>
-    </div>
-    </div>
-  </section> --}}
-{{-- <section class="action-box parallax full-width mb-80 bg-overlay-black-60 parallax" style="background: url(img/slides/img5.png);">
-    <div class="container">
-      <div class="row">
-       <div class="col-lg-12 col-md-12 position-relative">
-          <div class="action-box-text">
-            <h3><strong> INFO : </strong> Récrutement</h3>
-            <p>Vous voulez faire partie des GAEL dans le monde alors voici le moment est venu!!</p>
-            </div>
-           <div class="action-box-button">
-          <a class="button button-border white" href="#">
-            <span>Cliquer ici</span>
-            <i class="fa fa-download"></i>
-         </a>
-         </div>
-      </div>
-    </div>
-    </div>
-  </section> --}}
-  <section class="action-box theme-bg full-width">
-    <div class="container">
-      <div class="row">
-       <div class="col-lg-12 col-md-12 position-relative">
-         <div class="action-box-text">
-            <h3><strong> INFO : </strong> Nous procèdons aux récrutements</h3>
-            <p>Vous voulez faire partie des GAEL et participer à ce grand travail? alors voici le moment est venu!!</p>
-        </div>
-        <div class="action-box-button">
-            <a class="button button-border white" href="void()"  data-bs-toggle="modal"
-            data-bs-target=".bd-example-modal-lg" onclick="event.preventDefault()">
-              <span>Cliquer ici</span>
-              <i class="fa fa-eye"></i>
-           </a>
-       </div>
-      </div>
-    </div>
-   </div>
-  </section>
-{{-- <section class="action-box black-bg full-width mb-80">
-    <div class="container">
-      <div class="row">
-       <div class="col-lg-12 col-md-12 position-relative">
-          <div class="action-box-text">
-           <h3><strong> INFO : </strong> Récrutement</h3>
-           <p>Vous voulez faire partie des GAEL dans le monde alors voici le moment est venu!!</p>
-           </div>
-           <div class="action-box-button">
 
-          <a class="button button-border white" href="void()"  data-bs-toggle="modal"
-          data-bs-target=".bd-example-modal-lg" onclick="event.preventDefault()">
-            <span>Cliquer ici</span>
-            <i class="fa fa-eye"></i>
-         </a>
-         </div>
-      </div>
-    </div>
-    </div>
-  </section> --}}
+  @include("info")
+
 
 
 <section class="py-5 page-section-ptb bg-light">
     <div class="container">
 
         <div class="row">
-            {{-- <div class="mx-auto col-lg-8 col-md-6">
-                <button type="button" class="btn" data-toggle="modal" data-target="#myModal"
-                    data-local="#myCarousel">Demo</button>
 
-                <div class="text-center section-title">
-                    <h2 class="title-effect text-uppercase">Mot du coordon. Int'l</h2>
-                </div>
-            </div> --}}
 
             <div class="col-12" style="text-align: justify;">
                 <p>
@@ -497,25 +418,7 @@
     </div>
 </section>
 <!--=============== citation ==================-->
-@include("modale")
 
-<section class="action-box theme-bg full-width">
-    <div class="container">
-      <div class="row">
-       <div class="col-lg-12 col-md-12 position-relative">
-         <div class="action-box-text">
-            <h3><strong> INFO : </strong> Nous procèdons aux récrutements</h3>
-            <p>Vous voulez faire partie des GAEL et participer à ce grand travail? alors voici le moment est venu!!</p>
-        </div>
-        <div class="action-box-button">
-            <a class="button button-border white" href="void()"  data-bs-toggle="modal"
-            data-bs-target=".bd-example-modal-lg" onclick="event.preventDefault()">
-              <span>Cliquer ici</span>
-              <i class="fa fa-eye"></i>
-           </a>
-       </div>
-      </div>
-    </div>
-   </div>
-  </section>
+
+@include("info")
 @endsection

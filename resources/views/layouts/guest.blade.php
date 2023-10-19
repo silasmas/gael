@@ -210,7 +210,7 @@
         <!-- =============== footer ================= -->
 
         <div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i> <span>TOP</span></a></div>
-
+        @include("modale")
         <!-- jQuery -->
         <script src="{{ asset('addons/webster/js/jquery-3.6.0.min.js') }}"></script>
         <script src="{{ asset('addons/webster/js/plugins-jquery.js') }}"></script>
@@ -225,8 +225,8 @@
         <script src="{{ asset('addons/webster/revolution/js/jquery.themepunch.tools.min.js') }}"></script>
         <script src="{{ asset('addons/webster/revolution/js/jquery.themepunch.revolution.min.js') }}"></script>
 
-        <!-- 
-            SLIDER REVOLUTION 5.0 EXTENSIONS  
+        <!--
+            SLIDER REVOLUTION 5.0 EXTENSIONS
             (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading)
         -->
         <script src="{{ asset('addons/webster/revolution/js/extensions/revolution.extension.actions.min.js') }}"></script>
@@ -245,7 +245,7 @@
         <script src="{{ asset('addons/webster/js/custom.js') }}"></script>
         <script type="text/javascript">
             $(function () {
-                $('.see_more').click(function (e) { 
+                $('.see_more').click(function (e) {
                     e.preventDefault();
 
                     if ($(this).text() == 'Voir plus') {

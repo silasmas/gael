@@ -20,6 +20,7 @@
                     </div>
                 </div>
             </section>
+            @include("info")
             <!--================ page title =================-->
 
             <!--================= music ================-->
@@ -311,7 +312,7 @@
                             </p>
 
                             <p class="fs-6" style="text-align: justify; letter-spacing: 1px; line-height: 2rem;">
-                                Les rencontres de répétitions se font chaque samedi à 14h00 au siège de GAEL MINISTRIES ; 
+                                Les rencontres de répétitions se font chaque samedi à 14h00 au siège de GAEL MINISTRIES ;
                                 outre la musique, les enfants apprennent aussi à servir Dieu par des poèmes, de
                                 la peinture, de la danse et de l'art dramatique.
                             </p>
