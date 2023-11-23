@@ -24,6 +24,7 @@
 
         <!-- Stylesheet -->
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/custom/mdb/css/mdb.min.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/custom/bootstrap/css/bootstrap.min.css') }}" />
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/plugins-css.css') }}" />
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/revolution/css/settings.css') }}" media="screen" />
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/typography.css') }}" />
