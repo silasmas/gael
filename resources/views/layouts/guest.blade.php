@@ -14,23 +14,27 @@
         <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/favicon-16x16.png') }}">
         <link rel="manifest" href="{{ asset('img/favicon/site.webmanifest') }}">
 
-        <!-- Font Icon -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/simple-line-icons.min.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/themify-icons.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css') }}" />
-
-        <!-- Stylesheet -->
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/custom/mdb/css/mdb.min.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/custom/bootstrap/css/bootstrap.min.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/owl.carousel.min.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/owl.theme.default.min.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/magnific-popup.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/css/settings.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/js/main-slider/rs6.min.js') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/color-schemes/orange.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/style.css') }}" />
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/bootstrap.min.css') }}">
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/font-awesome.min.css') }}">
+		<!-- Simple Line Icons -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/simple-line-icons.min.css') }}">
+		<!-- Themify Icons -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/themify-icons.css') }}">
+		<!-- Owl Slider -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/owl.carousel.min.css') }}">
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/owl.theme.default.min.css') }}">
+		<!-- Magnific Popup -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/magnific-popup.css') }}">
+		<!-- Revolution Slider -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css') }}">
+		<!-- REVOLUTION STYLE SHEETS -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/css/settings.css') }}">
+		<link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/css/main-slider/rs6.css') }}">
+		<!-- Main Style -->
+		<link rel="stylesheet" href="{{ asset('addons/zegen/css/color-schemes/orange.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/style.css') }}" class="main-style" />
 
         <style>
             #rev_slider_6_1_wrapper .tp-loader.spinner1 { background-color: #FFFFFF !important; }
@@ -65,7 +69,7 @@
 
     <body data-res-from="1025">
 		<!--Page Loader-->
-		<div class="page-loader"></div>
+		{{-- <div class="page-loader"></div> --}}
 
         <!--Zmm Wrapper-->
 		<div class="zmm-wrapper">
@@ -118,7 +122,7 @@
 										</ul>
 										<ul class="nav mobile-header-items pull-center">
 											<li>
-												<a href="index.html" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="149" height="45" alt="Logo"></a>
+												<a href="index.html" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="135" alt="Logo"></a>
 											</li>
 										</ul>
 										<ul class="nav mobile-header-items pull-right">
@@ -146,7 +150,7 @@
 											<li>
 												<div class="header-address typo-white">
                                                     <span class="ti-location-pin"></span>
-													0115, avenue Sadiki, 14<small class="d-inline-block align-top">ème</small> Rue, Industriel, commune de Limete, Kinshasa
+													0115, avenue Sadiki, 14<small class="d-inline-block align-top">ème</small> Rue, Industriel, com. de Limete
                                                 </div>
 											</li>
 										</ul>
