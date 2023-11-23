@@ -69,7 +69,7 @@
 
     <body data-res-from="1025">
 		<!--Page Loader-->
-		{{-- <div class="page-loader"></div> --}}
+		<div class="page-loader"></div>
 
         <!--Zmm Wrapper-->
 		<div class="zmm-wrapper">
@@ -122,7 +122,7 @@
 										</ul>
 										<ul class="nav mobile-header-items pull-center">
 											<li>
-												<a href="index.html" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="135" alt="Logo"></a>
+												<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="149" height="45" alt="Logo"></a>
 											</li>
 										</ul>
 										<ul class="nav mobile-header-items pull-right">
@@ -506,8 +506,8 @@
 		<!-- Footer -->
 
         <!-- jQuery -->
-        <script src="{{ asset('addons/custom/jquery/js/jquery.min.js') }}"></script>
-        <script src="{{ asset('addons/custom/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+        <script src="{{ asset('addons/zegen/js/jquery.min.js') }}"></script>
+        <script src="{{ asset('addons/zegen/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('addons/custom/mdb/js/mdb.min.js') }}"></script>
         <script src="{{ asset('addons/zegen/js/jquery.easing.min.js') }}"></script>
         <script src="{{ asset('addons/zegen/js/owl.carousel.min.js') }}"></script>
