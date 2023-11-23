@@ -14,11 +14,6 @@
         <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/favicon-16x16.png') }}">
         <link rel="manifest" href="{{ asset('img/favicon/site.webmanifest') }}">
 
-        <!-- Font Family -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800">
-
         <!-- Font Icon -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
@@ -35,9 +30,12 @@
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/css/settings.css') }}" />
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/rs-plugin/js/main-slider/rs6.min.js') }}" />
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/color-schemes/orange.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/style.css') }}" />
 
         <style>
             #rev_slider_6_1_wrapper .tp-loader.spinner1 { background-color: #FFFFFF !important; }
+		</style>
+        <style>
             .rs-layer.Concept-Content a, .rs-layer.Concept-Content a:visited { color:#fff !important; border-bottom:1px solid #fff !important; font-weight:700 !important }
             .rs-layer.Concept-Content a:hover { border-bottom:1px solid transparent !important }
             .rs-layer.Concept-Content-Dark a, .rs-layer.Concept-Content-Dark a:visited { color:#000 !important; border-bottom:1px solid #000 !important; font-weight:700 !important }
