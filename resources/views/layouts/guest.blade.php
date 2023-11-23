@@ -18,21 +18,19 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800">
+
         <!-- Font Icon -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/simple-line-icons.min.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/themify-icons.css') }}" />
 
         <!-- Stylesheet -->
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/custom/mdb/css/mdb.min.css') }}" />
         <link rel="stylesheet" type="text/css" href="{{ asset('addons/custom/bootstrap/css/bootstrap.min.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/plugins-css.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/revolution/css/settings.css') }}" media="screen" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/typography.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/shortcodes/shortcodes.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/style.css') }}" />
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/responsive.css') }}" />
-
-        <link rel="stylesheet" type="text/css" href="{{ asset('addons/webster/css/skins/skin-orange.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/owl.carousel.min.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/owl.theme.default.min.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ asset('addons/zegen/css/magnific-popup.css') }}" />
 
         <title>Groupe Adorons l'Éternel</title>
     </head>
