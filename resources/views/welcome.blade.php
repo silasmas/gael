@@ -303,7 +303,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 										<div class="title-wrap margin-bottom-30">
 											<div class="section-title">
 												<span class="sub-title theme-color text-uppercase">GAEL Ministries</span>
-												<h2 class="section-title margin-top-5">A propos de nos ministères</h2>
+												<h2 class="section-title margin-top-5">Nos ministères</h2>
 												<span class="border-bottom"></span>
 											</div>
 											<div class="pad-top-15">
