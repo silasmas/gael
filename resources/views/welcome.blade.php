@@ -302,17 +302,12 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 									<div class="col-xl-6 px-3 ps-xl-0">
 										<div class="title-wrap margin-bottom-30">
 											<div class="section-title">
-												<span class="sub-title theme-color text-uppercase">About Us</span>
-												<h2 class="section-title margin-top-5">We are Taking Small Steps to
-													Make Earth Better Planet</h2>
+												<span class="sub-title theme-color text-uppercase">GAEL Ministries</span>
+												<h2 class="section-title margin-top-5">A propos de nos ministères</h2>
 												<span class="border-bottom"></span>
 											</div>
 											<div class="pad-top-15">
-												<p class="margin-bottom-20">We welcome you with great joy to Zegen
-													Church. We are here to share the great news of Jesus Christ to all
-													that will listen.</p>
-												<p class="styled-text">The name of the Lord is a strong tower; the
-													righteous run into it and are safe.</p>
+												<p class="margin-bottom-20">Les ministères de GAEL et leurs fonctionnements.</p>
 											</div>
 										</div>
 										<div class="row">
@@ -321,20 +316,56 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 												<div class="feature-box-wrap f-box-style-1 mb-md-0 mb-sm-4 relative">
 													<div class="feature-box-details">
 														<div class="feature-icon margin-bottom-25">
-															<span class="ti-heart b-radius-50 d-block"></span>
+															<span class="ti-control-play b-radius-50 d-block"></span>
 														</div>
 														<div class="feature-content">
 															<div class="feature-title relative margin-bottom-15">
-																<h4>Place Of Heaven</h4>
+																<h4>GAEL Music</h4>
 															</div>
-															<p class="mb-0">In Zegen you will feel divinity, piety, goodness,
-																faith or right beliefs.</p>
+															<p class="mb-0">Il s'agit de la branche musicale de GAEL Ministries.</p>
 														</div>
 													</div>
 												</div>
 											</div>
 											<!-- Feature Box End -->
-											<!-- Feature Box -->
+
+                                            <!-- Feature Box -->
+											<div class="col-md-6">
+												<div class="feature-box-wrap f-box-style-1 mb-md-0 mb-sm-4 relative">
+													<div class="feature-box-details">
+														<div class="feature-icon margin-bottom-25">
+															<span class="ti-user b-radius-50 d-block"></span>
+														</div>
+														<div class="feature-content">
+															<div class="feature-title relative margin-bottom-15">
+																<h4>GAEL Générations</h4>
+															</div>
+															<p class="mb-0">Se concentre sur les nouvelles générations, âgées de 6 ans à 21 ans.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+											<!-- Feature Box End -->
+
+                                            <!-- Feature Box -->
+											<div class="col-md-6">
+												<div class="feature-box-wrap f-box-style-1 relative">
+													<div class="feature-box-details">
+														<div class="feature-icon margin-bottom-25">
+															<span class="ti-heart b-radius-50 d-block"></span>
+														</div>
+														<div class="feature-content">
+															<div class="feature-title relative margin-bottom-15">
+																<h4>GAEL Hands</h4>
+															</div>
+															<p class="mb-0">GAEL Hands est la branche consacrée aux œuvres sociales et communautaires, exprimant le cœur des vrais adorateurs.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+											<!-- Feature Box End -->
+
+                                            <!-- Feature Box -->
 											<div class="col-md-6">
 												<div class="feature-box-wrap f-box-style-1 relative">
 													<div class="feature-box-details">
@@ -343,10 +374,9 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 														</div>
 														<div class="feature-content">
 															<div class="feature-title relative margin-bottom-15">
-																<h4>Study Bible</h4>
+																<h4>GAEL Teachings</h4>
 															</div>
-															<p class="mb-0">Learn the Bible enhance your wisdom, give you
-																boldness about your faith.</p>
+															<p class="mb-0">Cette branche centrée sur l'enseignement autour de l'adoration selon l'approche théologico-systématique et biblico-dévotionnelle.</p>
 														</div>
 													</div>
 												</div>
@@ -354,8 +384,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 											<!-- Feature Box End -->
 										</div>
 										<div class="button-section margin-top-35">
-											<a class="btn btn-default" href="about-us.html" title="Learn More">Learn
-												More</a>
+											<a class="btn btn-default" href="{{ route('ministry.home') }}" title="Learn More">Voir les détails</a>
 										</div>
 									</div>
 									<!-- Col -->
