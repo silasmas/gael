@@ -14,8 +14,12 @@
         <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/favicon/favicon-16x16.png') }}">
         <link rel="manifest" href="{{ asset('img/favicon/site.webmanifest') }}">
 
+		<!-- MDB -->
+		<link rel="stylesheet" href="{{ asset('addons/custom/mdb/css/mdb.min.css') }}">
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="{{ asset('addons/zegen/css/bootstrap.min.css') }}">
+		<!-- Bootstrap icons -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 		<!-- Font Awesome -->
 		<link rel="stylesheet" href="{{ asset('addons/zegen/css/font-awesome.min.css') }}">
 		<!-- Simple Line Icons -->
@@ -40,6 +44,11 @@
             #rev_slider_6_1_wrapper .tp-loader.spinner1 { background-color: #FFFFFF !important; }
 		</style>
         <style>
+			pre { font-family: inherit!important; font-size: inherit!important; white-space: pre-wrap!important; white-space: -moz-pre-wrap!important; white-space: -pre-wrap!important; white-space: -o-pre-wrap!important; word-wrap: break-word!important; }
+			.ellip { display: block; height: 100%; transition: .3s; }
+			.ellip-line { display: inline-block; text-overflow: ellipsis; white-space: nowrap; word-wrap: normal; max-width: 100%; }
+			.ellip, .ellip-line { position: relative; overflow: hidden; }
+
             .rs-layer.Concept-Content a, .rs-layer.Concept-Content a:visited { color:#fff !important; border-bottom:1px solid #fff !important; font-weight:700 !important }
             .rs-layer.Concept-Content a:hover { border-bottom:1px solid transparent !important }
             .rs-layer.Concept-Content-Dark a, .rs-layer.Concept-Content-Dark a:visited { color:#000 !important; border-bottom:1px solid #000 !important; font-weight:700 !important }
@@ -122,7 +131,7 @@
 										</ul>
 										<ul class="nav mobile-header-items pull-center">
 											<li>
-												<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="149" height="45" alt="Logo"></a>
+												<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="110" alt="Logo"></a>
 											</li>
 										</ul>
 										<ul class="nav mobile-header-items pull-right">
@@ -505,7 +514,7 @@
 		</footer>
 		<!-- Footer -->
 
-        <!-- jQuery -->
+        <!-- MISCELLANEOUS -->
         <script src="{{ asset('addons/zegen/js/jquery.min.js') }}"></script>
         <script src="{{ asset('addons/zegen/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('addons/custom/mdb/js/mdb.min.js') }}"></script>
@@ -527,5 +536,53 @@
         <script src="{{ asset('addons/zegen/rs-plugin/js/main-slider/rbtools.min.js') }}"></script>
         <script src="{{ asset('addons/zegen/rs-plugin/js/main-slider/rs6.min.js') }}"></script>
         <script src="{{ asset('addons/zegen/rs-plugin/js/main-slider/home-1.js') }}"></script>
+
+		<!-- CUSTOM -->
+        <script src="{{ asset('addons/custom/jquery/ellipsis/jquery.ellipsis.min.js') }}"></script>
+		<script type="text/javascript">
+			function insertAfter(referenceNode, newNode) {
+				referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+			}
+
+			function limitChar(text, count) {
+				return text.slice(0, count) + (text.length > count ? '...' : '');
+			}
+
+			function triggerRoll(btn, text, element, _class) {
+				if (btn.classList.contains(_class)) {
+					element.textContent = text;
+					btn.classList.remove(_class);
+					btn.innerHTML = 'Réduire <i class="bi bi-chevron-double-up fs-5 align-middle"></i>';
+
+				} else {
+					element.textContent = limitChar(element.textContent, 890);
+					btn.classList.add(_class);
+					btn.innerHTML = 'Développer <i class="bi bi-chevron-double-down fs-5 align-middle"></i>';
+				}
+			}
+
+			const containers = document.querySelectorAll('.paragraph-ellipsis');
+			const roll_btn = document.createElement('a');
+
+			roll_btn.setAttribute('role', 'button');
+			roll_btn.setAttribute('class', 'roll-block unrolled btn-link mt-2 float-end');
+			roll_btn.innerHTML = 'Développer <i class="bi bi-chevron-double-down fs-5 align-middle"></i>';
+
+			Array.prototype.forEach.call(containers, (container) => {
+				// Loop through each container
+				var p = container.querySelector('.paragraph_900');
+				var p_span = p.lastElementChild;
+				var p_span_text = p_span.textContent;
+				var divh = container.clientHeight;
+
+				insertAfter(p_span, roll_btn);
+
+				p_span.textContent = limitChar(p_span.textContent, 890);
+
+				roll_btn.onclick = () => {
+					triggerRoll(roll_btn, p_span_text, p_span, 'unrolled');
+				};
+			});
+		</script>
     </body>
 </html>

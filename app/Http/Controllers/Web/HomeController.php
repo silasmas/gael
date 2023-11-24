@@ -29,7 +29,7 @@ class HomeController extends Controller
     public function index()
     {
         try {
-            return view('index');
+            return view('welcome');
 
         } catch (\Throwable $th) {
             abort(404);
