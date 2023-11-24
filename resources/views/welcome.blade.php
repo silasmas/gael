@@ -182,7 +182,7 @@
 						<!-- Events Section End -->
 
 						<!-- About Section -->
-						<section id="section-about" class="section-about pad-top-50 pb-0">
+						<section id="section-about" class="section-about pad-top-100 pb-0">
 							<div class="container">
 								<!-- Row -->
 								<div class="row g-2">
@@ -204,7 +204,7 @@
 
 									<div class="col-lg-9 col-sm-8 col-12 paragraph-ellipsis">
                                         <pre class="paragraph_900 position-relative" style="top: -3.02rem;">
-                                            <span>
+                                            <span class="text-black">
 Les dernières années passées dans ces ministères ont été les plus émouvantes et les plus agitées ; elles ont laissé après elles beaucoup de douleurs et de confusion. Mais l'heure n'est plus à l'agitation et au deuil, le temps n'est plus à la distraction et à la peur ; car beaucoup d'adorateurs venus de loin attendent que l'étoile de GAEL paraisse dans le ciel pour indiquer l'endroit où se trouve le Roi des Juifs, afin de l'adorer.
 
 L'un des grands rêves de notre regretté père Alain MOLOTO était de voir une armée d'adorateurs se lever pour glorifier Jésus-Christ parmi les nations, une race de ceux qui répondent aux critères que Christ révèle dans l'avis de recherche du Père. Et depuis le 22 septembre 2013, date à laquelle cette nouvelle responsabilité nous a été confiée, nous sommes conscients de l'obligation de porter l'étendard plus haut et d'amener la conquête dans la terre promise. 
@@ -218,6 +218,147 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
                                         </pre>
                                     </div>
 									<!-- .col -->
+								</div>
+								<!-- Row -->
+							</div>
+							<!-- Container -->
+						</section>
+						<!-- About Section End -->
+
+						<!-- Get a Quote Section -->
+						<section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="{{ asset('img/archives/slide-02.jpg') }}">
+							<div class="container">
+								<!-- Row -->
+								<div class="row text-center">
+									<!-- Col -->
+									<div class="col-md-12">
+										<div class="get-quote-1">
+											<!-- video wrap -->
+											<div class="video-wrap wrap-stretch relative margin-bottom-50">
+                                                <!-- video details -->
+												<div class="video-wrap-details">
+													<!-- video button -->
+													<div class="video-play-btn text-center">
+														<div class="video-icon">
+															<a class="popup-youtube box-shadow1"
+																href="https://www.youtube.com/watch?v=3SxK9DPMVMU">
+																<i class="ti-control-play"></i>
+															</a>
+														</div>
+													</div>
+												</div>
+												<!-- video details End-->
+											</div>
+											<!-- video wrap end -->
+											<div class="title-wrap mb-0">
+												<div class="section-title typo-white margin-bottom-40">
+													<h2 class="title mb-3">GAEL Music</h2>
+													<span class="dancing-text">
+                                                        Cliquez sur le bouton ci-haut pour suivre en direct les concerts, les formations et bien plus encore.
+                                                    </span>
+												</div>
+                                                <h4 class="h4 mb-4 text-white">N'oubliez pas que nous continuons à récruter, si vous souhaitez participer à ce grand travail</h4>
+												<div class="get-quote-btn">
+													<a class="btn btn-default" href="donate-now.html" title="">S'inscrire</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									<!-- Col -->
+								</div>
+								<!-- Row -->
+							</div>
+							<!-- Container -->
+						</section>
+						<!-- Get a Quote Section End -->
+
+						<!-- About Section -->
+						<section id="section-about" class="section-about pad-top-90">
+							<div class="container">
+								<!-- Row -->
+								<div class="row">
+									<!-- Col -->
+									<div class="col-xl-6 align-self-center">
+										<!-- about wrap -->
+										<div class="about-wrap relative">
+											<div class="about-wrap-inner">
+												<!-- about details -->
+												<div class="about-wrap-details">
+													<!-- about button -->
+													<div class="text-center">
+														<div class="about-img bf-pattern mb-5 mb-xl-0">
+															<img src="{{ asset('img/archives/ministry.png') }}" class alt="about-img">
+														</div>
+														<!-- .col -->
+													</div>
+												</div>
+												<!-- about details End-->
+											</div>
+										</div>
+										<!-- about wrap end -->
+									</div>
+									<!-- .col -->
+									<!-- Col -->
+									<div class="col-xl-6 px-3 ps-xl-0">
+										<div class="title-wrap margin-bottom-30">
+											<div class="section-title">
+												<span class="sub-title theme-color text-uppercase">About Us</span>
+												<h2 class="section-title margin-top-5">We are Taking Small Steps to
+													Make Earth Better Planet</h2>
+												<span class="border-bottom"></span>
+											</div>
+											<div class="pad-top-15">
+												<p class="margin-bottom-20">We welcome you with great joy to Zegen
+													Church. We are here to share the great news of Jesus Christ to all
+													that will listen.</p>
+												<p class="styled-text">The name of the Lord is a strong tower; the
+													righteous run into it and are safe.</p>
+											</div>
+										</div>
+										<div class="row">
+											<!-- Feature Box -->
+											<div class="col-md-6">
+												<div class="feature-box-wrap f-box-style-1 mb-md-0 mb-sm-4 relative">
+													<div class="feature-box-details">
+														<div class="feature-icon margin-bottom-25">
+															<span class="ti-heart b-radius-50 d-block"></span>
+														</div>
+														<div class="feature-content">
+															<div class="feature-title relative margin-bottom-15">
+																<h4>Place Of Heaven</h4>
+															</div>
+															<p class="mb-0">In Zegen you will feel divinity, piety, goodness,
+																faith or right beliefs.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+											<!-- Feature Box End -->
+											<!-- Feature Box -->
+											<div class="col-md-6">
+												<div class="feature-box-wrap f-box-style-1 relative">
+													<div class="feature-box-details">
+														<div class="feature-icon margin-bottom-25">
+															<span class="ti-book b-radius-50 d-block"></span>
+														</div>
+														<div class="feature-content">
+															<div class="feature-title relative margin-bottom-15">
+																<h4>Study Bible</h4>
+															</div>
+															<p class="mb-0">Learn the Bible enhance your wisdom, give you
+																boldness about your faith.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+											<!-- Feature Box End -->
+										</div>
+										<div class="button-section margin-top-35">
+											<a class="btn btn-default" href="about-us.html" title="Learn More">Learn
+												More</a>
+										</div>
+									</div>
+									<!-- Col -->
 								</div>
 								<!-- Row -->
 							</div>
