@@ -182,7 +182,7 @@
 								<a href="#" class="close full-view-close"></a>
 								<form class="navbar-form search-form" role="search">
 									<div class="input-group">
-										<input class="form-control" placeholder="Écrire ici ..." name="srch-term" type="text">
+										<input class="form-control" placeholder="Écrire ici pour rechercher ..." name="srch-term" type="text">
 									</div>
 								</form>
 							</div>
@@ -260,23 +260,23 @@
 
                                 <!--  -->
                                 <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,-26px,-10px,-33px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,30;l:52,55,50,40;ls:3px;fw:700;a:center;" data-dim="w:754px,699px,auto,400px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">
-                                    God gives us power
+                                    GAEL ministries
                                 </h1>
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text" data-color="#226df8||#2056e9||#2056e9||#2056e9" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,left,left,left;" data-dim="w:408px,auto,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">
-                                    we help you get things done
+                                    Redécouvrir
                                 </rs-layer>
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">
-                                    Jesus is holy, loving, and worthy of all our worship and devotion. You will feel heaven in our Zegen Church. Join us and Praise the Lord Jesus.
+                                    Nous prenons aujourd'hui le temps de tout expliquer avec précision ce qu'est GAEL pour vous tous qui aimez et servez cette œuvre.
                                 </rs-layer>
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,130px,128px,117px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="rX:-70deg;oZ:-50;" data-frame_1="oZ:-50;e:power4.inOut;st:3160;sp:1750;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#2056e9;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-                                    Contact Us
-                                </rs-layer>
+                                    Voir les détails
+								</rs-layer>
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-1-layer-21" data-type="image" data-rsp_ch="on" data-xy="x:c;yo:228px,95px,91px,90px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;" data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;">
@@ -290,22 +290,22 @@
 
                                 <!--  -->
                                 <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-32px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;" data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">
-                                    We call, price the lord
+                                    Suivez-nous en streaming
                                 </h1>
                                 <!--  -->
 
                                 <rs-layer id="slider-1-slide-2-layer-4" class="Concept-SubTitle" data-type="text" data-color="#bf0a30||#e9204f||#e9204f||#e9204f" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-72px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;" data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">
-                                    WE'RE BUILDING THEM A HOME
+                                    GAEL TV
                                 </rs-layer>
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">
-                                    Jesus is holy, loving, and worthy of all our worship and devotion. You will feel heaven in our Zegen Church. Join us and Praise the Lord Jesus.
+                                    avec GAEL TV, vous êtes en mesur de suivre en direct les concerts, les formations et bien plus encore.
                                 </rs-layer>
                                 <!--  -->
 
-                                <a id="slider-1-slide-2-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="sermons.html" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:177px,156px,128px,118px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#bf0a30;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-                                    View Sermons
+                                <a id="slider-1-slide-2-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="#" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:177px,156px,128px,118px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#bf0a30;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
+                                    Commencer ici
 								</a>
 
                                 <!--  -->
@@ -320,22 +320,22 @@
 
                                 <!--  -->
                                 <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;" data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">
-                                    LET'S BRING THEM HOME
+                                    GAEL Music
                                 </h1>
                                 <!--  -->
 
                                 <rs-layer id="slider-1-slide-3-layer-4" class="Concept-SubTitle" data-type="text" data-color="#3ec00b||#37b406||#37b406||#37b406" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-47px,-55px,-76px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,center,left,left;" data-dim="w:446px,424px,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">
-                                    YOU CAN HELP FOR THEM
+                                    Musique
                                 </rs-layer>
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-3-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,228px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">
-                                    Zegen Church WordPress Theme comes with sermons, ministries, events, testimonies, staff members, church locations shortcodes to enhance your website.
+                                    Tout savoir sur la branche musicale de GAEL Ministries composée du Grand Chœur, de l'Équipe Mobile et de la Mission Team
                                 </rs-layer>
                                 <!--  -->
 
-                                <a id="slider-1-slide-3-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="ministries-grid-2.html" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,156px,128px,112px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#37b406;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-                                    View Ministries
+                                <a id="slider-1-slide-3-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="#" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,156px,128px,112px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#37b406;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
+                                    Voir les détails
                                 </a>
 
                                 <!--  -->
