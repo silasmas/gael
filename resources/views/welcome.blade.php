@@ -278,7 +278,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 								<!-- Row -->
 								<div class="row">
 									<!-- Col -->
-									<div class="col-xl-6 align-self-center">
+									<div class="col-lg-6 col-sm-6 align-self-center">
 										<!-- about wrap -->
 										<div class="about-wrap relative">
 											<div class="about-wrap-inner">
@@ -299,7 +299,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 									</div>
 									<!-- .col -->
 									<!-- Col -->
-									<div class="col-xl-6 px-3 ps-xl-0">
+									<div class="col-lg-6 px-3 ps-xl-0">
 										<div class="title-wrap margin-bottom-30">
 											<div class="section-title">
 												<span class="sub-title theme-color text-uppercase">GAEL Ministries</span>
@@ -384,7 +384,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 											<!-- Feature Box End -->
 										</div>
 										<div class="button-section margin-top-35">
-											<a class="btn btn-default" href="{{ route('ministry.home') }}" title="Learn More">Voir les détails</a>
+											<a class="btn btn-default" href="{{ route('ministry.home') }}" title="Voir plus">Voir les détails</a>
 										</div>
 									</div>
 									<!-- Col -->
@@ -408,7 +408,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
                             <div class="container">
 								<div class="row">
 									<!-- col -->
-									<div class="col-xl-4 pe-xl-4 pb-5 pb-xl-0">
+									<div class="col-sm-4 pe-xl-4 pb-5 pb-xl-0">
 										<div class="flip-box broken-top-115 verticalMove">
 											<div class="flip-box-inner imghvr-flip-3d-horz">
 												<div class="flip-box-front">
@@ -434,7 +434,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 										</div>
 									</div>
 									<!-- col -->
-									<div class="col-xl-8 ps-xl-4">
+									<div class="col-sm-8 ps-xl-4">
 										<div class="section-title-wrapper">
 											<div class="title-wrap mb-0">
 												<div class="section-title">
@@ -447,7 +447,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 												</div>
 											</div>
 											<div class="button-section margin-top-25">
-												<a class="btn btn-default" href="{{ route('about.home') }}" title="Learn More">A propos de nous</a>
+												<a class="btn btn-default" href="{{ route('about.home') }}" title="Voir plus">A propos de nous</a>
 											</div>
 										</div>
 									</div>
@@ -456,5 +456,279 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 							</div>
 						</section>
 						<!-- Contact Form Section End -->
+
+						<!-- About Section -->
+						<section id="section-about" class="section-about pad-top-90">
+							<div class="container">
+								<!-- Row -->
+								<div class="row">
+									<!-- Col -->
+									<div class="col-lg-6 col-sm-7 px-3 ps-xl-0">
+										<div class="title-wrap margin-bottom-30">
+											<div class="section-title">
+												<span class="sub-title theme-color text-uppercase">Le fondateur</span>
+												<h2 class="section-title margin-top-5">ALAIN MOLOTO KOSSY</h2>
+												<span class="border-bottom"></span>
+											</div>
+											<div class="pad-top-15">
+												<p class="margin-bottom-20">Fondateur du Groupe Adorons l'Éternel (GAEL)</p>
+											</div>
+										</div>
+
+										<p class="lead text-black">Créé le 17 MARS 1998 par l'initiative du frère Alain Moloto Kossy, le Groupe Adorons l'Éternel, GAEL en sigle, est un ensemble de ministères œuvrant auprès du Corps du Christ dans le domaine de la louange et de l'adoration.</p>
+
+										<div class="button-section margin-top-35">
+											<a class="btn btn-default" href="{{ route('about.home') }}" title="Voir plus">Détails</a>
+										</div>
+									</div>
+									<!-- Col -->
+
+									<!-- Col -->
+									<div class="col-lg-6 col-sm-5 align-self-center">
+										<!-- about wrap -->
+										<div class="about-wrap relative">
+											<div class="about-wrap-inner">
+												<!-- about details -->
+												<div class="about-wrap-details">
+													<div id="carouselFounder" class="carousel slide" data-bs-ride="carousel">
+														<div class="carousel-inner">
+															<div class="carousel-item active">
+																<img src="{{ asset('img/pubs/founder/founder00.png') }}" class="d-block w-100" alt="FounderSlide01">
+															</div>
+															<div class="carousel-item">
+																<img src="{{ asset('img/pubs/founder/founder01.png') }}" class="d-block w-100" alt="FounderSlide02">
+															</div>
+															<div class="carousel-item">
+																<img src="{{ asset('img/pubs/founder/founder02.png') }}" class="d-block w-100" alt="FounderSlide03">
+															</div>
+															<div class="carousel-item">
+																<img src="{{ asset('img/pubs/founder/founder03.png') }}" class="d-block w-100" alt="FounderSlide04">
+															</div>
+															<div class="carousel-item">
+																<img src="{{ asset('img/pubs/founder/founder04.png') }}" class="d-block w-100" alt="FounderSlide05">
+															</div>
+														</div>
+														<button class="carousel-control-prev" type="button" data-bs-target="#carouselFounder" data-bs-slide="prev">
+															<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+															<span class="visually-hidden">Précédent</span>
+														</button>
+														<button class="carousel-control-next" type="button" data-bs-target="#carouselFounder" data-bs-slide="next">
+															<span class="carousel-control-next-icon" aria-hidden="true"></span>
+															<span class="visually-hidden">Suivant</span>
+														</button>
+													</div>
+												</div>
+												<!-- about details End-->
+											</div>
+										</div>
+										<!-- about wrap end -->
+									</div>
+									<!-- .col -->
+								</div>
+								<!-- Row -->
+							</div>
+							<!-- Container -->
+						</section>
+						<!-- About Section End -->
+
+						<!-- Contact Map -->
+						<section class="contact-map pad-none">
+							<!-- Container -->
+							<div class="container">
+								<div class="row">
+									<div class="col-12">
+										<div class="section-title mt-0 text-center">
+											<span class="sub-title theme-color text-uppercase">Siège social</span>
+											<h2 class="section-title margin-top-5">Notre adresse</h2>
+											<span class="border-bottom mx-auto"></span>
+										</div>
+
+										<!-- Map -->
+										<div class="map p-sm-4">
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31827.877579898413!2d15.262481110839843!3d-4.319647500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a33e2ff4df57f%3A0xd38901f99027183b!2sGael%20Ministries!5e0!3m2!1sfr!2scd!4v1700871404177!5m2!1sfr!2scd" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+										</div>
+										<!-- Map -->
+									</div>
+								</div>
+							</div>
+							<!-- Container -->
+						</section>
+						<!-- Contact Map End -->
+
+						<!-- Blog Section -->
+						<section class="blog-section pad-top-50 pad-bottom-95">
+							<div class="container">
+								<!-- Blog Wrap -->
+								<div class="row">
+									<div class="col-md-12">
+										<div class="title-wrap text-center">
+											<div class="section-title">
+												<span class="sub-title theme-color text-uppercase">Actualité</span>
+												<h2 class="section-title margin-top-5">Dernières infos</h2>
+												<span class="border-bottom center"></span>
+											</div>
+										</div>
+										<div class="row">
+											<!--Blog Main Slider-->
+											<div class="owl-carousel blog-main-wrapper blog-style-1" data-loop="1" data-nav="0" data-dots="1" data-autoplay="0" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+												<!--Item-->
+												<div class="item">
+													<!--Blog Inner-->
+													<div class="blog-inner">
+														<div class="blog-thumb relative">
+															<img src="{{ asset('img/pubs/news/news01.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
+															<div class="top-meta">
+																<ul class="top-meta-list">
+																	<li>
+																		<div class="post-date">
+																			<a href="#">
+																				<i class="ti-calendar"></i> Oct 21, 2023
+																			</a>
+																		</div>
+																	</li>
+																</ul>
+															</div>
+														</div>
+
+														<div class="blog-details">
+															<div class="blog-title">
+																<h4 class="margin-bottom-10">
+																	<a href="#" class="blog-name">
+																		Duis aute irure dolor in reprehenderit
+																	</a>
+																</h4>
+															</div>
+															<div class="post-desc mt-2">
+																<div class="blog-link">
+																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
+																</div>
+															</div>
+														</div>
+													</div>
+													<!--Blog Inner Ends-->
+												</div>
+												<!--Item Ends-->
+
+												<!--Item-->
+												<div class="item">
+													<!--Blog Inner-->
+													<div class="blog-inner">
+														<div class="blog-thumb relative">
+															<img src="{{ asset('img/pubs/news/news02.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
+															<div class="top-meta">
+																<ul class="top-meta-list">
+																	<li>
+																		<div class="post-date">
+																			<a href="#">
+																				<i class="ti-calendar"></i> Oct 21, 2023
+																			</a>
+																		</div>
+																	</li>
+																</ul>
+															</div>
+														</div>
+
+														<div class="blog-details">
+															<div class="blog-title">
+																<h4 class="margin-bottom-10">
+																	<a href="#" class="blog-name">
+																		Excepteur sint occaecat cupidatat non proident
+																	</a>
+																</h4>
+															</div>
+															<div class="post-desc mt-2">
+																<div class="blog-link">
+																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
+																</div>
+															</div>
+														</div>
+													</div>
+													<!--Blog Inner Ends-->
+												</div>
+												<!--Item Ends-->
+
+												<!--Item-->
+												<div class="item">
+													<!--Blog Inner-->
+													<div class="blog-inner">
+														<div class="blog-thumb relative">
+															<img src="{{ asset('img/pubs/news/news03.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
+															<div class="top-meta">
+																<ul class="top-meta-list">
+																	<li>
+																		<div class="post-date">
+																			<a href="#">
+																				<i class="ti-calendar"></i> Nov 05, 2023
+																			</a>
+																		</div>
+																	</li>
+																</ul>
+															</div>
+														</div>
+
+														<div class="blog-details">
+															<div class="blog-title">
+																<h4 class="margin-bottom-10">
+																	<a href="#" class="blog-name">
+																		Aliquam faucibus | elit ut dictum aliquet
+																	</a>
+																</h4>
+															</div>
+															<div class="post-desc mt-2">
+																<div class="blog-link">
+																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
+																</div>
+															</div>
+														</div>
+													</div>
+													<!--Blog Inner Ends-->
+												</div>
+												<!--Item Ends-->
+
+												<!--Item-->
+												<div class="item">
+													<!--Blog Inner-->
+													<div class="blog-inner">
+														<div class="blog-thumb relative">
+															<img src="{{ asset('img/pubs/news/news04.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
+															<div class="top-meta">
+																<ul class="top-meta-list">
+																	<li>
+																		<div class="post-date">
+																			<a href="#">
+																				<i class="ti-calendar"></i> Nov 10, 2023
+																			</a>
+																		</div>
+																	</li>
+																</ul>
+															</div>
+														</div>
+
+														<div class="blog-details">
+															<div class="blog-title">
+																<h4 class="margin-bottom-10">
+																	<a href="#" class="blog-name">
+																		Curabitur pretium tincidunt lacus
+																	</a>
+																</h4>
+															</div>
+															<div class="post-desc mt-2">
+																<div class="blog-link">
+																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
+																</div>
+															</div>
+														</div>
+													</div>
+													<!--Blog Inner Ends-->
+												</div>
+												<!--Item Ends-->
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- Blog Wrap -->
+							</div>
+						</section>
+						<!-- Blog Section End -->
 
 @endsection

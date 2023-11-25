@@ -300,7 +300,7 @@
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-2-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,312px,271px,234px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">
-                                    avec GAEL TV, vous êtes en mesur de suivre en direct les concerts, les formations et bien plus encore.
+                                    Avec GAEL TV, vous êtes en mesure de suivre en direct les concerts, les formations et bien plus encore.
                                 </rs-layer>
                                 <!--  -->
 
@@ -386,7 +386,7 @@
 					<div class="color-overlay"></div>
 					<div class="container">
 						<div class="row">
-							<div class="col-lg-3 widget text-widget">
+							<div class="col-lg-3 col-sm-6 widget text-widget">
 								<div class="widget-title">
 									<!-- Title -->
 									<h3 class="title typo-white">Groupe Adorons l'Éternel</h3>
@@ -404,7 +404,7 @@
 							</div>
 
                             <!-- Col -->
-							<div class="col-lg-3 widget text-widget">
+							<div class="col-lg-3 col-sm-6 widget text-widget">
 								<div class="widget-title">
 									<!-- Title -->
 									<h3 class="title typo-white">Liens rapides</h3>
@@ -421,7 +421,7 @@
 							</div>
 							<!-- Col -->
 
-                            <div class="col-lg-3 widget recent-posts">
+                            <div class="col-lg-3 col-sm-6 widget recent-posts">
 								<div class="widget-title">
 									<!-- Title -->
 									<h3 class="title typo-white">Actualité</h3>
@@ -460,7 +460,7 @@
 							</div>
 
                             <!-- Col -->
-							<div class="col-lg-3 widget contact-info-widget">
+							<div class="col-lg-3 col-sm-6 widget contact-info-widget">
 								<div class="widget-title">
 									<!-- Title -->
 									<h3 class="title typo-white">Newsletter</h3>
