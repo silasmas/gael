@@ -45,9 +45,6 @@
 		</style>
         <style>
 			pre { font-family: inherit!important; font-size: inherit!important; white-space: pre-wrap!important; white-space: -moz-pre-wrap!important; white-space: -pre-wrap!important; white-space: -o-pre-wrap!important; word-wrap: break-word!important; }
-			.ellip { display: block; height: 100%; transition: .3s; }
-			.ellip-line { display: inline-block; text-overflow: ellipsis; white-space: nowrap; word-wrap: normal; max-width: 100%; }
-			.ellip, .ellip-line { position: relative; overflow: hidden; }
 
             .rs-layer.Concept-Content a, .rs-layer.Concept-Content a:visited { color:#fff !important; border-bottom:1px solid #fff !important; font-weight:700 !important }
             .rs-layer.Concept-Content a:hover { border-bottom:1px solid transparent !important }
@@ -563,7 +560,6 @@
         <script src="{{ asset('addons/zegen/rs-plugin/js/main-slider/home-1.js') }}"></script>
 
 		<!-- CUSTOM -->
-        <script src="{{ asset('addons/custom/jquery/ellipsis/jquery.ellipsis.min.js') }}"></script>
 		<script type="text/javascript">
 			function insertAfter(referenceNode, newNode) {
 				referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);

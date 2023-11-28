@@ -2,26 +2,26 @@
 
 @section('error-content')
 
-            <!--================ error =================-->
-            <section class="section-transparent page-section-ptb mt-150">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-10 text-center position-relative">
-                            <div class="error-text-02">
-                                <h2>404</h2>
-                                <span>Non trouvé</span>
-                              </div>
-                            <h3 class="text-white mt-40 mb-20">Oups ! Cette page est introuvable.</h3>
-                            <div class="error-info">
-                                <p class="mb-50 text-white">
-                                    La page que vous recherchez a peut-être été supprimée, son nom a changé ou est temporairement indisponible.
-                                </p>
-                                <a class="button xs-mb-10 " href="{{ route('home') }}">Retourner à l'accueil</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--================ error =================-->
-    
+								<!-- Row -->
+								<div class="row">
+									<!-- Col -->
+									<div class="col-12 text-center">
+										<div class="title-wrap">
+											<div class="section-title">
+												<h1 class="section-title margin-top-5">Non trouvée</h1>
+												<span class="border-bottom mx-auto"></span>
+											</div>
+										</div>
+
+                                        <h2 class="display-4 fw-bold">404</h2>
+                                        <p class="lead">Cette page n'est pas accessible</p>
+
+										<div class="button-section margin-top-35">
+											<a class="btn btn-default" href="{{ route('home') }}">Retourner à l'accueil</a>
+										</div>
+                                    </div>
+									<!-- Col -->
+                                </div>
+								<!-- Row -->
+
 @endsection
