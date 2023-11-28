@@ -10,7 +10,7 @@
                                         <div class="section-title text-center">
                                             <h1 class="title-effect text-uppercase">GAEL Music</h1>
                                             <p class="m-0 text-black">
-                                                « <strong>GAEL Music</strong> est la branche musicale des ministères GAEL qui est composé fondamentalement de trois départements : Grand choeur, Equipe Mobile, Mission Team. »
+                                                « <strong>GAEL Music</strong> est la branche musicale des ministères GAEL qui est composé fondamentalement de trois départements : Grand chœur, Equipe Mobile, Mission Team. »
                                             </p>
                                         </div>
                                     </div>
@@ -48,16 +48,16 @@
 									<div class="paragraph-ellipsis col-lg-7 col-sm-7 col-12">
 										<div class="title-wrap">
 											<div class="section-title">
-												<h2 class="section-title margin-top-5">Grand Choeur</h2>
+												<h2 class="section-title margin-top-5">Grand Chœur</h2>
 												<span class="border-bottom"></span>
 											</div>
 										</div>
 
                                         <pre class="paragraph_500 position-relative" style="top: -3rem;">
                                             <span class="text-black">
-La grande chorale de Gael music est faite des frères et soeurs des différentes églises locales qui se sont inscrits pour une formation gratuite qui dure au moins 10 mois. Apres un teste sélectif, les retenus se munissent de leur lettres de recommandation pastorale et de leur frais d'identification (carte de membre, chaise personnel etc..) et commencent un long voyage avec GAEL qu'eux seul pourront décider d'arrêter. Chaque Dimanche de 14H30 à 16H30, ils sont formés dans les domaines de l'adoration, de la conduite du culte et de la musique et tout autre domaine utile à l'exercice de leur appel dans leurs églises locales.
+La grande chorale de Gael music est faite des frères et sœurs des différentes églises locales qui se sont inscrits pour une formation gratuite qui dure au moins 10 mois. Apres un teste sélectif, les retenus se munissent de leur lettres de recommandation pastorale et de leur frais d'identification (carte de membre, chaise personnel etc..) et commencent un long voyage avec GAEL qu'eux seul pourront décider d'arrêter. Chaque Dimanche de 14H30 à 16H30, ils sont formés dans les domaines de l'adoration, de la conduite du culte et de la musique et tout autre domaine utile à l'exercice de leur appel dans leurs églises locales.
 
-Plusieurs activités visant un esprit de famille et une meilleure connaissance de l'appel lévitique y sont organisées ; retraites de prière, recollection, randonnée, sport etc. Pour devenir membre du choeur GAEL contacter nos bureaux tout moment pour connaitre la période de recrutement.
+Plusieurs activités visant un esprit de famille et une meilleure connaissance de l'appel lévitique y sont organisées ; retraites de prière, recollection, randonnée, sport etc. Pour devenir membre du chœur GAEL contacter nos bureaux tout moment pour connaitre la période de recrutement.
                                             </span>
                                         </pre>
                                     </div>
@@ -189,7 +189,7 @@ La plupart de membres de cette équipe ont constitué pendant longtemps les prin
                                         <div class="section-title text-center">
                                             <h1 class="title-effect text-uppercase">GAEL Hands</h1>
                                             <p class="m-0 text-black">
-                                                « <strong>GAEL Hands</strong> est la branche dédiée aux oeuvres sociales et communautaires comme expression du coeur d'un vrai adorateur. »
+                                                « <strong>GAEL Hands</strong> est la branche dédiée aux œuvres sociales et communautaires comme expression du cœur d'un vrai adorateur. »
                                             </p>
                                         </div>
                                     </div>
@@ -238,7 +238,7 @@ Vous vous dites peut-être, qu'est-ce qu'un si petit don peut faire pour quelqu'
 
 En tant que partenaire de GAEL HANDS, vous avez la possibilité de voir la grâce de Dieu allant dans des endroits supprimant les fardeaux et détruisant les jougs, libérant les gens de la honte et de la culpabilité.
 
-Nous pensons que notre amour de Dieu se traduit mieux que par nos actes d'amour envers notre prochain. Nous avons commencé à étendre cet amour sur quatre aspects pour lesquels nous invitons à nous accompagner selon que le seigneur parlera à contre coeur.
+Nous pensons que notre amour de Dieu se traduit mieux que par nos actes d'amour envers notre prochain. Nous avons commencé à étendre cet amour sur quatre aspects pour lesquels nous invitons à nous accompagner selon que le seigneur parlera à contre cœur.
                                             </span>
                                         </pre>
                                     </div>

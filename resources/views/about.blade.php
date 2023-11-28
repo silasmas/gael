@@ -141,10 +141,10 @@
 									<!-- Col -->
 									<div class="col-lg-6 col-sm-7 col-12">
                                         <p class="text-black">
-                                            <strong class="fw-bold">Le visionnaire</strong> : Choqué par des pratiques spectaculaire qu'il a observé dans les moments dits « journée de louange », MOLOTO ne pouvait plus maitriser le zèle de la maison de Dieu qui dévorer son coeur, c'est en en Mars 1998 qu'il partage le fardeau avec Franck MULAJA, ESTHER NZAU pour la création d'une petite équipe qui fait du live à la radio dans une émission qui s'appelle d'abords « une heure avec jésus » puis « Adorons l'éternel » qui devient le nom même du ministère.
+                                            <strong class="fw-bold">Le visionnaire</strong> : Choqué par des pratiques spectaculaire qu'il a observé dans les moments dits « journée de louange », MOLOTO ne pouvait plus maitriser le zèle de la maison de Dieu qui dévorer son cœur, c'est en en Mars 1998 qu'il partage le fardeau avec Franck MULAJA, ESTHER NZAU pour la création d'une petite équipe qui fait du live à la radio dans une émission qui s'appelle d'abords « une heure avec jésus » puis « Adorons l'éternel » qui devient le nom même du ministère.
                                         </p>
                                         <p class="text-black">
-                                            Cette même flamme a de nouveau brulé dans son coeur avec une tout autre vision, celle de voir le nom jésus élevé sur la nation Congolaise(RDC) comme un soleil levant au-dessus des oeuvres de l'ennemi. C'est ainsi que se crée en 2012 la vision EDEN qui signifie : « Ensemble pour la Délivrance de la Nation », un rassemblement chrétien pour l'intercession au sujet de la nation.
+                                            Cette même flamme a de nouveau brulé dans son cœur avec une tout autre vision, celle de voir le nom jésus élevé sur la nation Congolaise(RDC) comme un soleil levant au-dessus des œuvres de l'ennemi. C'est ainsi que se crée en 2012 la vision EDEN qui signifie : « Ensemble pour la Délivrance de la Nation », un rassemblement chrétien pour l'intercession au sujet de la nation.
                                         </p>
                                     </div>
 									<!-- Col -->
@@ -295,11 +295,11 @@ Abraham avait une foi exceptionnelle qui lui fut imputé à justice, mais le sei
 
 ÊTRE VRAI :  L'une des conditions de la véritable adoration est la qualité de vie de l'adorateur, il faut que celui qui l'adore, l'adore en esprit et en vérité. (JN 4 :23) être GAEL c'est accepter de vivre dans la crainte de Dieu sans aucune duplicité, être ce qu'on enseigne aux autres, se concentrer sur ce qu'on devient soi-même par la fréquentation permanente de la présence de Dieu et non être emporter par les avoirs passagers.
 
-ÊTRE PRÊT :  L'oeuvre du seigneur exige de nous une consécration totale, une très grande disponibilité. Celui qui veut être GAEL doit savoir que le seigneur aura besoin de nous n'importe quand selon son désir et que surtout il aura besoin de passer l'éternité avec nous ? Nous devons donc être prêts à répondre à son appel pour ce siècle et pour l'avenir. (Esaïe 6 :8)
+ÊTRE PRÊT :  L'œuvre du seigneur exige de nous une consécration totale, une très grande disponibilité. Celui qui veut être GAEL doit savoir que le seigneur aura besoin de nous n'importe quand selon son désir et que surtout il aura besoin de passer l'éternité avec nous ? Nous devons donc être prêts à répondre à son appel pour ce siècle et pour l'avenir. (Esaïe 6 :8)
 
 ÊTRE UN :  Jésus a lancé un appel, un avis de recherche de plusieurs adorateurs et non d'un seul, il veut qu'ils viennent en grand nombre mais qu'ils soient tous un comme le père et le fils le sont. (JN 17 :22) Et nous sommes conscients que nous nous pourrons être utiles au Saint-Esprit qu'à la mesure où nous favoriserons l'unité au milieu. (Actes 2 :1) Celui qui veut être GAEL doit savoir abandonner ses intérêts personnels et faire valoir les objectifs du groupe.
 
-ÊTRE LÀ :  l'oeuvre à laquelle nous sommes appelés exige notre présence dans le corps du christ et dans la société. Celui qui veut être GAEL doit apprendre à affirmer l'existence de cette oeuvre par les moyens médiatique car notre rôle n'est pas de nous cacher avec timidité, mais de crier tout haut par l'Esprit qui nous pousse à adorer le père. (Romains 8 :15)
+ÊTRE LÀ :  l'œuvre à laquelle nous sommes appelés exige notre présence dans le corps du christ et dans la société. Celui qui veut être GAEL doit apprendre à affirmer l'existence de cette œuvre par les moyens médiatique car notre rôle n'est pas de nous cacher avec timidité, mais de crier tout haut par l'Esprit qui nous pousse à adorer le père. (Romains 8 :15)
                                                 </span>
                                             </pre>
                                         </div>
