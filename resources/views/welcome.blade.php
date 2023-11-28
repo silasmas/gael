@@ -287,7 +287,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 													<!-- about button -->
 													<div class="text-center">
 														<div class="about-img bf-pattern mb-5 mb-xl-0">
-															<img src="{{ asset('img/archives/ministry.png') }}" class alt="about-img">
+															<img src="{{ asset('img/archives/ministry.png') }}" alt="" class="about-img">
 														</div>
 														<!-- .col -->
 													</div>
@@ -433,6 +433,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 											</div>
 										</div>
 									</div>
+									<!-- col -->
 									<!-- col -->
 									<div class="col-sm-8 ps-xl-4">
 										<div class="section-title-wrapper">

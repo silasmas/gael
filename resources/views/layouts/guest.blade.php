@@ -73,7 +73,28 @@
             #rev_slider_1_1[data-slideactive="rs-3"] .zeus.tparrows:before{line-height:60px !important;font-size:17px !important}
         </style>
 
-        <title>Groupe Adorons l'Éternel</title>
+        <title>
+@if (Route::is('home'))
+			Groupe Adorons l'Éternel
+@else
+			GAEL | 
+	@if (Route::is('about.home'))
+			A propos
+	@endif
+
+	@if (Route::is('ministry.home') || Route::is('ministry.datas'))
+			Ministères
+	@endif
+
+	@if (Route::is('discography.home') || Route::is('discography.datas') || Route::is('discography.entity.home') || Route::is('discography.entity.datas'))
+			Discographie
+	@endif
+
+	@if (Route::is('donate'))
+			Donation
+	@endif
+@endif
+		</title>
     </head>
 
     <body data-res-from="1025">
@@ -85,7 +106,7 @@
 			<a href="#" class="zmm-close close"></a>
 			<div class="zmm-inner bg-white typo-dark">
 				<div class="text-center mobile-logo-part margin-bottom-30">
-					<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="170" height="51" alt="Logo"></a>
+					<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="70" alt="Logo"></a>
 				</div>
 				<div class="zmm-main-nav"></div>
 				<div class="search-form-wrapper margin-top-30">
@@ -131,7 +152,7 @@
 										</ul>
 										<ul class="nav mobile-header-items pull-center">
 											<li>
-												<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="110" alt="Logo"></a>
+												<a href="{{ route('home') }}" class="img-before"><img src="{{ asset('img/logo.png') }}" class="img-fluid" width="70" alt="Logo"></a>
 											</li>
 										</ul>
 										<ul class="nav mobile-header-items pull-right">
@@ -149,7 +170,8 @@
 					<!-- .mobile-header -->
 
                     <!--Header-->
-					<div class="header-inner header-1 header-absolute">
+					<div class="header-inner header-1{{ Route::is('home') ? ' header-absolute' : '' }}">
+@if (Route::is('home'))
 						<!--Topbar-->
 						<div class="topbar relative">
 							<div class="basic-container clearfix">
@@ -188,6 +210,7 @@
 							</div>
 						</div>
 						<!--Topbar-->
+@endif
 
                         <!--Sticky part-->
 						<div class="sticky-outer">
@@ -200,10 +223,10 @@
 											<ul class="nav navbar-items pull-left">
 												<li class="list-item">
 													<a href="{{ route('home') }}" class="logo-general">
-                                                        <img src="{{ asset('img/logo-reverse.png') }}" class="img-fluid" width="166" height="50" alt="Logo" />
+                                                        <img src="{{ Route::is('home') ? asset('img/logo-reverse.png') : asset('img/logo.png') }}" class="img-fluid" width="70" alt="Logo" />
                                                     </a>
 													<a href="{{ route('home') }}" class="logo-sticky">
-                                                        <img src="{{ asset('img/logo.png') }}" class="img-fluid" width="166" height="50" alt="Logo" />
+                                                        <img src="{{ asset('img/logo.png') }}" class="img-fluid" width="70" alt="Logo" />
                                                     </a>
 												</li>
 											</ul>
@@ -212,15 +235,15 @@
 											<ul class="nav navbar-items pull-right">
 												<!--List Item-->
 												<li class="list-item">
-													<ul class="nav navbar-main menu-white">
+													<ul class="nav navbar-main {{ Route::is('home') ? 'menu-white' : 'menu-dark' }}">
 														<li class="{{ Route::is('home') ? 'active' : '' }}">
                                                             <a href="{{ route('home') }}">Accueil</a>
 														</li>
 														<li class="{{ Route::is('about.home') ? 'active' : '' }}">
                                                             <a href="{{ route('about.home') }}">A propos</a>
                                                         </li>
-														<li class="{{ Route::is('about.home') ? 'active' : '' }}">
-                                                            <a href="{{ route('about.home') }}">Ministère</a>
+														<li class="{{ Route::is('ministry.home') ? 'active' : '' }}">
+                                                            <a href="{{ route('ministry.home') }}">Ministère</a>
                                                         </li>
 														<li class="{{ Route::is('discography.home') ? 'active' : '' }}">
                                                             <a href="{{ route('discography.home') }}">Discographie</a>
@@ -367,6 +390,8 @@
 				<!-- Revolution Slider Section End -->
 @endif
 
+@include('page_header')
+
                 <!-- Page Content -->
 				<div class="content-wrapper pad-none">
 					<div class="content-inner">
@@ -493,8 +518,8 @@
 								<ul class="footer-bottom-items pull-left">
 									<li class="nav-item">
 										<div class="nav-item-inner">
-											Copyrights &copy; {{ date('Y') }} <a href="{{ route('home') }}">GAEL</a>. 
-                                            Designed by <a href="http://silasmas.com/">SDEV</a><span class="heart-color"><i class="bi bi-heart"></i></span>
+											Copyright &copy; {{ date('Y') }} <a href="{{ route('home') }}">GAEL</a>. 
+                                            Designed by <a href="http://silasmas.com/">SDEV</a><span class="heart-color"><i class="bi bi-heart ms-1 align-middle"></i></span>
 										</div>
 									</li>
 								</ul>
@@ -548,40 +573,63 @@
 				return text.slice(0, count) + (text.length > count ? '...' : '');
 			}
 
-			function triggerRoll(btn, text, element, _class) {
+			function triggerRoll(btn, text, element, _class, count) {
 				if (btn.classList.contains(_class)) {
 					element.textContent = text;
 					btn.classList.remove(_class);
 					btn.innerHTML = 'Réduire <i class="bi bi-chevron-double-up fs-5 align-middle"></i>';
 
 				} else {
-					element.textContent = limitChar(element.textContent, 890);
+					element.textContent = limitChar(element.textContent, count);
 					btn.classList.add(_class);
 					btn.innerHTML = 'Développer <i class="bi bi-chevron-double-down fs-5 align-middle"></i>';
 				}
 			}
 
 			const containers = document.querySelectorAll('.paragraph-ellipsis');
-			const roll_btn = document.createElement('a');
-
-			roll_btn.setAttribute('role', 'button');
-			roll_btn.setAttribute('class', 'roll-block unrolled btn-link mt-2 float-end');
-			roll_btn.innerHTML = 'Développer <i class="bi bi-chevron-double-down fs-5 align-middle"></i>';
 
 			Array.prototype.forEach.call(containers, (container) => {
 				// Loop through each container
-				var p = container.querySelector('.paragraph_900');
-				var p_span = p.lastElementChild;
-				var p_span_text = p_span.textContent;
-				var divh = container.clientHeight;
+				var p900 = container.querySelector('.paragraph_900');
+				var p500 = container.querySelector('.paragraph_500');
 
-				insertAfter(p_span, roll_btn);
+				if (p900 != null) {
+					const roll_btn_900 = document.createElement('a');
 
-				p_span.textContent = limitChar(p_span.textContent, 890);
+					roll_btn_900.setAttribute('role', 'button');
+					roll_btn_900.setAttribute('class', 'roll-block unrolled btn-link mt-2 float-end');
+					roll_btn_900.innerHTML = 'Développer <i class="bi bi-chevron-double-down fs-5 align-middle"></i>';
 
-				roll_btn.onclick = () => {
-					triggerRoll(roll_btn, p_span_text, p_span, 'unrolled');
-				};
+					var p900_span = p900.lastElementChild;
+					var p900_span_text = p900_span.textContent;
+
+					insertAfter(p900_span, roll_btn_900);
+
+					p900_span.textContent = limitChar(p900_span.textContent, 890);
+
+					roll_btn_900.onclick = () => {
+						triggerRoll(roll_btn_900, p900_span_text, p900_span, 'unrolled', 890);
+					};
+				}
+
+				if (p500 != null) {
+					const roll_btn_500 = document.createElement('a');
+
+					roll_btn_500.setAttribute('role', 'button');
+					roll_btn_500.setAttribute('class', 'roll-block unrolled btn-link mt-2 float-end');
+					roll_btn_500.innerHTML = 'Développer <i class="bi bi-chevron-double-down fs-5 align-middle"></i>';
+
+					var p500_span = p500.lastElementChild;
+					var p500_span_text = p500_span.textContent;
+
+					insertAfter(p500_span, roll_btn_500);
+
+					p500_span.textContent = limitChar(p500_span.textContent, 500);
+
+					roll_btn_500.onclick = () => {
+						triggerRoll(roll_btn_500, p500_span_text, p500_span, 'unrolled', 500);
+					};
+				}
 			});
 		</script>
     </body>
