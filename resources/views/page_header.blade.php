@@ -12,7 +12,7 @@
 											<a href="index.html" class="theme-color">Accueil</a>
 											<span class="current">A propos</span>
 										</div>
-										<h1 class="page-title mb-0">A propos</h1>
+										<h1 class="page-title mb-0">Qui sommes nous</h1>
 									</div>
 								</div>
 							</div>
@@ -35,7 +35,7 @@
 											<a href="index.html" class="theme-color">Accueil</a>
 											<span class="current">Ministère</span>
 										</div>
-										<h1 class="page-title mb-0">Ministère</h1>
+										<h1 class="page-title mb-0">Les ministères GAEL</h1>
 									</div>
 								</div>
 							</div>
@@ -58,7 +58,7 @@
 											<a href="index.html" class="theme-color">Accueil</a>
 											<span class="current">Discographie</span>
 										</div>
-										<h1 class="page-title mb-0">Discographie</h1>
+										<h1 class="page-title mb-0">Les albums GAEL</h1>
 									</div>
 								</div>
 							</div>
@@ -81,7 +81,7 @@
 											<a href="index.html" class="theme-color">Accueil</a>
 											<span class="current">Donation</span>
 										</div>
-										<h1 class="page-title mb-0">Donation</h1>
+										<h1 class="page-title mb-0">Faites votre don</h1>
 									</div>
 								</div>
 							</div>

@@ -265,7 +265,18 @@
 
                                 <!-- Text -->
 								<div class="widget-text margin-bottom-30">
-									<p></p>
+									<p class="d-flex justify-between">
+										<span class="ti-location-pin me-1 fs-5 theme-color"></span>
+										<span class="d-inline-block">
+											0115, avenue Sadiki, 14<small class="d-inline-block align-top">ème</small> Rue, Industriel, com. de Limete
+										</span>
+									</p>
+									<p>
+										<span class="ti-headphone me-1 theme-color"></span>
+										<span class="d-inline-block">
+											+123 456 789
+										</span>
+									</p>
 								</div>
 								<div class="social-icons">
 									<a href="#" class="social-fb"><span class="ti-facebook"></span></a>
