@@ -6,10 +6,13 @@
                         <section class="page-section-ptb py-5">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-8 mx-auto">
-                                        <div class="section-title text-center">
-                                            <h1 class="title-effect text-uppercase">Album collectif</h1>
-                                        </div>
+                                    <div class="col-12">
+										<div class="title-wrap">
+											<div class="section-title text-center">
+                                                <h1 class="section-title margin-top-5 text-uppercase">Album collectif</h1>
+												<span class="border-bottom mx-auto"></span>
+											</div>
+										</div>
                                     </div>
                                 </div>
 
@@ -143,14 +146,15 @@
                         <section class="page-section-ptb py-5 bg-light">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-8 mx-auto">
+                                    <div class="col-12">
                                         <div class="section-title text-center">
-                                            <h1 class="title-effect text-uppercase">Album solo</h1>
+                                            <h1 class="section-title margin-top-5 text-uppercase">Album solo</h1>
+                                            <span class="border-bottom mx-auto"></span>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="row g-lg-5 g-4">
+                                <div class="row mt-1 g-lg-5 g-4">
                                     <div class="col-lg-3 col-md-4 col-sm-4">
                                         <div class="card border border-default shadow-0">
                                             <img class="card-img-top" src="{{ asset('img/albums/solo/album00.png') }}" alt="">
