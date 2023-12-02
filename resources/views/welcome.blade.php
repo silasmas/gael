@@ -259,7 +259,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 												</div>
                                                 <h4 class="h4 mb-4 text-white">N'oubliez pas que nous continuons à récruter, si vous souhaitez participer à ce grand travail</h4>
 												<div class="get-quote-btn">
-													<a class="btn btn-default" href="donate-now.html" title="">S'inscrire</a>
+													<a class="btn btn-default" href="#" title="">S'inscrire</a>
 												</div>
 											</div>
 										</div>

@@ -252,7 +252,7 @@
                                                 <!--List Item-->
 												<li class="list-item">
 													<div class="header-navbar-text-1">
-                                                        <a href="{{ route('donate') }}" class="h-donate-btn">Donation</a>
+                                                        <a href="#" class="h-donate-btn">Donation</a>
                                                     </div>
 												</li>
 												<!--List Item End-->
@@ -294,7 +294,7 @@
                                 </rs-layer>
 
                                 <!--  -->
-                                <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,130px,128px,117px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="rX:-70deg;oZ:-50;" data-frame_1="oZ:-50;e:power4.inOut;st:3160;sp:1750;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#2056e9;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
+                                <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,130px,128px,117px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="rX:-70deg;oZ:-50;" data-frame_1="oZ:-50;e:power4.inOut;st:3160;sp:1750;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#2056e9;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;" onclick="window.location.href = '/ministries'">
                                     Voir les détails
 								</rs-layer>
 
@@ -324,7 +324,7 @@
                                 </rs-layer>
                                 <!--  -->
 
-                                <a id="slider-1-slide-2-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="#" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:177px,156px,128px,118px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#bf0a30;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
+                                <a id="slider-1-slide-2-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="https://www.youtube.com/watch?v=3SxK9DPMVMU" target="_blank" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:177px,156px,128px,118px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#bf0a30;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
                                     Commencer ici
 								</a>
 
@@ -354,7 +354,7 @@
                                 </rs-layer>
                                 <!--  -->
 
-                                <a id="slider-1-slide-3-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="#" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,156px,128px,112px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#37b406;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
+                                <a id="slider-1-slide-3-layer-16" class="rs-layer res-slide-btn pop rev-btn" href="{{ route('ministry.home') }}" target="_self" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,156px,128px,112px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:3160;sp:1200;sR:3160;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;background-color:#37b406;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
                                     Voir les détails
                                 </a>
 
@@ -445,9 +445,9 @@
 								<!-- Text -->
 								<div class="menu-quick-links">
 									<ul class="menu">
-										<li class="menu-item"><a href="#">A propos</a></li>
-										<li class="menu-item"><a href="#">Ministères</a></li>
-										<li class="menu-item"><a href="#">Discographie</a></li>
+										<li class="menu-item"><a href="{{ route('about.home') }}">A propos</a></li>
+										<li class="menu-item"><a href="{{ route('ministry.home') }}">Ministères</a></li>
+										<li class="menu-item"><a href="{{ route('discography.home') }}">Discographie</a></li>
 										<li class="menu-item"><a href="#">Donation</a></li>
 									</ul>
 								</div>
