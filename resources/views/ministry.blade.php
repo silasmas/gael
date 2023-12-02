@@ -431,7 +431,7 @@ Ainsi le jeune adorateur devient à la fois utile à sa famille, à son église 
 												</div>
 											</div>
 											<div class="button-section margin-top-25">
-												<a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">Inscription ici &raquo;</a>
+												<a class="btn btn-default shadow-0" href="#" title="Voir plus">Inscription ici &raquo;</a>
 											</div>
 										</div>
 									</div>
@@ -649,7 +649,7 @@ L'école des adorateurs du ministère GAEL existe pour équiper les enfants de D
                                                 <p>Comment mettre les compétences de la musique au service de l'adoration par les huit éléments musicaux.</p>
 
                                                 <div class="button-section margin-top-25">
-                                                    <a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">
+                                                    <a class="btn btn-default shadow-0" href="#" title="Voir plus">
                                                         Commander <i class="bi bi-box-arrow-up-right ms-1"></i>
                                                     </a>
                                                 </div>
@@ -665,7 +665,7 @@ L'école des adorateurs du ministère GAEL existe pour équiper les enfants de D
                                                 <p>Découvrir le profil et la vie de l'adorateur dans sa relation avec Dieu, lui-même et les autres.</p>
 
                                                 <div class="button-section margin-top-25">
-                                                    <a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">
+                                                    <a class="btn btn-default shadow-0" href="#" title="Voir plus">
                                                         Commander <i class="bi bi-box-arrow-up-right ms-1"></i>
                                                     </a>
                                                 </div>
@@ -681,7 +681,7 @@ L'école des adorateurs du ministère GAEL existe pour équiper les enfants de D
                                                 <p>Apprendre à canaliser l'influence de la musique sur le déroulement du culte personnel et collectif.</p>
 
                                                 <div class="button-section margin-top-25">
-                                                    <a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">
+                                                    <a class="btn btn-default shadow-0" href="#" title="Voir plus">
                                                         Commander <i class="bi bi-box-arrow-up-right ms-1"></i>
                                                     </a>
                                                 </div>
@@ -697,7 +697,7 @@ L'école des adorateurs du ministère GAEL existe pour équiper les enfants de D
                                                 <p>Comprendre tous les concepts liés à l'adoration et les psaumes bibliques.</p>
 
                                                 <div class="button-section margin-top-25">
-                                                    <a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">
+                                                    <a class="btn btn-default shadow-0" href="#" title="Voir plus">
                                                         Commander <i class="bi bi-box-arrow-up-right ms-1"></i>
                                                     </a>
                                                 </div>
@@ -713,7 +713,7 @@ L'école des adorateurs du ministère GAEL existe pour équiper les enfants de D
                                                 <p>Les notions de leadership pour diriger un groupe musical dans sa complexité.</p>
 
                                                 <div class="button-section margin-top-25">
-                                                    <a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">
+                                                    <a class="btn btn-default shadow-0" href="#" title="Voir plus">
                                                         Commander <i class="bi bi-box-arrow-up-right ms-1"></i>
                                                     </a>
                                                 </div>
@@ -729,7 +729,7 @@ L'école des adorateurs du ministère GAEL existe pour équiper les enfants de D
                                                 <p>Comprendre tous les concepts liés à la célébration.</p>
 
                                                 <div class="button-section margin-top-25">
-                                                    <a class="btn btn-default" href="{{ route('register') }}" title="Voir plus">
+                                                    <a class="btn btn-default shadow-0" href="#" title="Voir plus">
                                                         Commander <i class="bi bi-box-arrow-up-right ms-1"></i>
                                                     </a>
                                                 </div>
