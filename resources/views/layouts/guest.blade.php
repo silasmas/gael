@@ -476,7 +476,7 @@
                                             </div>
                                         </li> --}}
 										<li>
-											<p class="m-0 text-center fst-italic"><i class="bi bi-info-circle me-2 text-theme"></i>Il n'y a aucune information</p>
+											<p class="m-0 text-center fst-italic"><i class="bi bi-info-circle me-2 theme-text"></i>Il n'y a aucune information</p>
                                         </li>
 									</ul>
 								</nav>
