@@ -462,7 +462,7 @@
 								<nav>
 									<ul class="footer-list-posts">
 										<!-- List Items -->
-										<li>
+										{{-- <li>
 											<div class="side-image">
 												<a href="#">
                                                     <img width="80" height="80" src="{{ asset('img/blank.png') }}" class="img-responsive wp-post-image" alt="Blog">
@@ -474,19 +474,9 @@
                                                 </a>
                                                 <span class="post-date d-block">23 novembre 2023</span>
                                             </div>
-                                        </li>
+                                        </li> --}}
 										<li>
-											<div class="side-image">
-												<a href="#">
-                                                    <img width="80" height="80" src="{{ asset('img/blank.png') }}" class="img-responsive wp-post-image" alt="Blog">
-                                                </a>
-                                            </div>
-											<div class="side-item-text">
-                                                <a href="#">
-                                                    Excepteur sint occaecat cupidatat
-                                                </a>
-                                                <span class="post-date d-block">23 novembre 2023</span>
-                                            </div>
+											<p class="m-0 text-center"><i class="bi bi-info-circle me-2"></i>Il n'y a aucune information</p>
                                         </li>
 									</ul>
 								</nav>

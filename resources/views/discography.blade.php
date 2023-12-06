@@ -277,7 +277,7 @@
 									<div class="paragraph-ellipsis col-lg-7 col-sm-7 col-12">
 										<div class="title-wrap">
 											<div class="section-title">
-												<h2 class="section-title margin-top-5">Grand Chœur</h2>
+												<h2 class="section-title margin-top-5">Sublime : Parfum qui chante</h2>
 												<span class="border-bottom"></span>
 											</div>
 										</div>
@@ -311,7 +311,7 @@ Sublime trois sera le premier album de GAEL MUSIC après la mort du regretté Al
 									<div class="paragraph-ellipsis col-lg-7 col-sm-7 col-12">
 										<div class="title-wrap">
 											<div class="section-title">
-												<h2 class="section-title margin-top-5">Grand Chœur</h2>
+												<h2 class="section-title margin-top-5">SANJOLA</h2>
 												<span class="border-bottom"></span>
 											</div>
 										</div>

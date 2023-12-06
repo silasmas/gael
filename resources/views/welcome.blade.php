@@ -226,7 +226,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 						<!-- About Section End -->
 
 						<!-- Get a Quote Section -->
-						<section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="{{ asset('img/archives/slide-02.jpg') }}">
+						<section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="{{ asset('img/pubs/pub00.png') }}">
 							<div class="container">
 								<!-- Row -->
 								<div class="row text-center">
@@ -569,7 +569,7 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 												<span class="border-bottom center"></span>
 											</div>
 										</div>
-										<div class="row">
+										{{-- <div class="row">
 											<!--Blog Main Slider-->
 											<div class="owl-carousel blog-main-wrapper blog-style-1" data-loop="1" data-nav="0" data-dots="1" data-autoplay="0" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
 												<!--Item-->
@@ -609,121 +609,10 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 													<!--Blog Inner Ends-->
 												</div>
 												<!--Item Ends-->
-
-												<!--Item-->
-												<div class="item">
-													<!--Blog Inner-->
-													<div class="blog-inner">
-														<div class="blog-thumb relative">
-															<img src="{{ asset('img/pubs/news/news02.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
-															<div class="top-meta">
-																<ul class="top-meta-list">
-																	<li>
-																		<div class="post-date">
-																			<a href="#">
-																				<i class="ti-calendar"></i> Oct 21, 2023
-																			</a>
-																		</div>
-																	</li>
-																</ul>
-															</div>
-														</div>
-
-														<div class="blog-details">
-															<div class="blog-title">
-																<h4 class="margin-bottom-10">
-																	<a href="#" class="blog-name">
-																		Excepteur sint occaecat cupidatat non proident
-																	</a>
-																</h4>
-															</div>
-															<div class="post-desc mt-2">
-																<div class="blog-link">
-																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
-																</div>
-															</div>
-														</div>
-													</div>
-													<!--Blog Inner Ends-->
-												</div>
-												<!--Item Ends-->
-
-												<!--Item-->
-												<div class="item">
-													<!--Blog Inner-->
-													<div class="blog-inner">
-														<div class="blog-thumb relative">
-															<img src="{{ asset('img/pubs/news/news03.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
-															<div class="top-meta">
-																<ul class="top-meta-list">
-																	<li>
-																		<div class="post-date">
-																			<a href="#">
-																				<i class="ti-calendar"></i> Nov 05, 2023
-																			</a>
-																		</div>
-																	</li>
-																</ul>
-															</div>
-														</div>
-
-														<div class="blog-details">
-															<div class="blog-title">
-																<h4 class="margin-bottom-10">
-																	<a href="#" class="blog-name">
-																		Aliquam faucibus | elit ut dictum aliquet
-																	</a>
-																</h4>
-															</div>
-															<div class="post-desc mt-2">
-																<div class="blog-link">
-																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
-																</div>
-															</div>
-														</div>
-													</div>
-													<!--Blog Inner Ends-->
-												</div>
-												<!--Item Ends-->
-
-												<!--Item-->
-												<div class="item">
-													<!--Blog Inner-->
-													<div class="blog-inner">
-														<div class="blog-thumb relative">
-															<img src="{{ asset('img/pubs/news/news04.png') }}" class="img-fluid" width="768" height="600" alt="blog-img" />
-															<div class="top-meta">
-																<ul class="top-meta-list">
-																	<li>
-																		<div class="post-date">
-																			<a href="#">
-																				<i class="ti-calendar"></i> Nov 10, 2023
-																			</a>
-																		</div>
-																	</li>
-																</ul>
-															</div>
-														</div>
-
-														<div class="blog-details">
-															<div class="blog-title">
-																<h4 class="margin-bottom-10">
-																	<a href="#" class="blog-name">
-																		Curabitur pretium tincidunt lacus
-																	</a>
-																</h4>
-															</div>
-															<div class="post-desc mt-2">
-																<div class="blog-link">
-																	<a target="_blank" href="#" class="link font-w-500">Voir plus<i class="bi bi-chevron-double-right ms-2"></i></a>
-																</div>
-															</div>
-														</div>
-													</div>
-													<!--Blog Inner Ends-->
-												</div>
-												<!--Item Ends-->
 											</div>
+										</div> --}}
+										<div class="col-md-12 text-center">
+											<p class="lead text-info"><i class="bi bi-info-circle me-2"></i>Il n'y a aucune information</p>
 										</div>
 									</div>
 								</div>
