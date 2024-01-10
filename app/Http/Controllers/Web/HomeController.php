@@ -2,7 +2,10 @@
 
 namespace App\Http\Controllers\Web;
 
+use GuzzleHttp\Client;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Session;
+use GuzzleHttp\Exception\ClientException;
 
 /**
  * @author Xanders
@@ -33,11 +36,49 @@ class HomeController extends Controller
      */
     public function index()
     {
-        try {
-            return view('welcome');
+        $json_url = asset('/js/team.json');
+        $client = new Client();
 
-        } catch (\Throwable $th) {
-            abort(404);
+        try {
+            $response = $client->request('GET', $json_url, [
+                'headers' => [
+                    'Accept' => 'application/json',
+                ],
+                'verify'  => false
+            ]);
+            $json_result = json_decode($response->getBody(), false);
+
+            if (Session::has('locale')) {
+                $sessionLocale = Session::get('locale');
+
+                if ($sessionLocale === 'en') {
+                    return view('welcome', [
+                        'json_result' => $json_result->en
+                    ]);
+
+                } else {
+                    return view('welcome', [
+                        'json_result' => $json_result->fr
+                    ]);
+                }
+
+            } else {
+                $appLocale = app()->getLocale();
+    
+                if ($appLocale === 'en') {
+                    return view('welcome', [
+                        'json_result' => $json_result->en
+                    ]);
+
+                } else {
+                    return view('welcome', [
+                        'json_result' => $json_result->fr
+                    ]);
+                }
+            }
+
+        } catch (ClientException $ex) {
+            return response()->json($ex, 404);
         }
     }
 
@@ -53,6 +94,135 @@ class HomeController extends Controller
 
         } catch (\Throwable $th) {
             abort(404);
+        }
+    }
+
+    /**
+     * GET: View team page
+     *
+     * @return \Illuminate\View\View
+     */
+    public function team()
+    {
+        $json_url = asset('/js/team.json');
+        $client = new Client();
+
+        try {
+            $response = $client->request('GET', $json_url, [
+                'headers' => [
+                    'Accept' => 'application/json',
+                ],
+                'verify'  => false
+            ]);
+            $json_result = json_decode($response->getBody(), false);
+
+            if (Session::has('locale')) {
+                $sessionLocale = Session::get('locale');
+
+                if ($sessionLocale === 'en') {
+                    return view('team', [
+                        'json_result' => $json_result->en
+                    ]);
+
+                } else {
+                    return view('team', [
+                        'json_result' => $json_result->fr
+                    ]);
+                }
+
+            } else {
+                $appLocale = app()->getLocale();
+    
+                if ($appLocale === 'en') {
+                    return view('team', [
+                        'json_result' => $json_result->en
+                    ]);
+
+                } else {
+                    return view('team', [
+                        'json_result' => $json_result->fr
+                    ]);
+                }
+            }
+
+        } catch (ClientException $ex) {
+            return response()->json($ex, 404);
+        }
+    }
+
+    /**
+     * GET: View team member page
+     *
+     * @param  int $id
+     * @return \Illuminate\View\View
+     */
+    public function teamDatas($id)
+    {
+        $json_url = asset('/js/team.json');
+        $client = new Client();
+
+        try {
+            $response = $client->request('GET', $json_url, [
+                'headers' => [
+                    'Accept' => 'application/json',
+                ],
+                'verify'  => false
+            ]);
+            $json_result1 = json_decode($response->getBody(), false);
+            $json_result2 = json_decode($response->getBody(), false);
+
+            if (Session::has('locale')) {
+                $sessionLocale = Session::get('locale');
+
+                if ($sessionLocale === 'en') {
+                    foreach ($json_result1->en as $team):
+                        if ($team->id === (int) $id) {
+                            return view('team', [
+                                'member' => $team,
+                                'team' => $json_result2->en
+                            ]);
+                        }
+                    endforeach;
+
+                } else {
+                    foreach ($json_result1->fr as $team):
+                        if ($team->id === (int) $id) {
+                            return view('team', [
+                                'member' => $team,
+                                'team' => $json_result2->fr
+                            ]);
+                        }
+                    endforeach;
+                }
+
+            } else {
+                $appLocale = app()->getLocale();
+
+                if ($appLocale === 'en') {
+                    foreach ($json_result1->en as $team):
+                        if ($team->id === (int) $id) {
+                            return view('team', [
+                                'member' => $team,
+                                'team' => $json_result2->en
+                            ]);
+                        }
+                    endforeach;
+
+                } else {
+                    foreach ($json_result1->fr as $team):
+                        // dd($team);
+                        if ($team->id === (int) $id) {
+                            return view('team', [
+                                'member' => $team,
+                                'team' => $json_result2->fr
+                            ]);
+                        }
+                    endforeach;
+                }
+            }
+
+        } catch (ClientException $ex) {
+            return response()->json($ex, 404);
         }
     }
 

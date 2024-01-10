@@ -11,6 +11,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/language/{locale}', 'App\Http\Controllers\Web\HomeController@changeLanguage')->name('change_language');
 Route::get('/', 'App\Http\Controllers\Web\HomeController@index')->name('home');
 Route::get('/about', 'App\Http\Controllers\Web\HomeController@about')->name('about.home');
+Route::get('/about/team', 'App\Http\Controllers\Web\HomeController@team')->name('about.team.home');
+Route::get('/about/team/{id}', 'App\Http\Controllers\Web\HomeController@teamDatas')->whereNumber('id')->name('about.team.datas');
 Route::get('/ministries', 'App\Http\Controllers\Web\HomeController@ministries')->name('ministry.home');
 Route::get('/ministries/{id}', 'App\Http\Controllers\Web\HomeController@ministryDatas')->whereNumber('id')->name('ministry.datas');
 Route::get('/discography', 'App\Http\Controllers\Web\HomeController@discography')->name('discography.home');

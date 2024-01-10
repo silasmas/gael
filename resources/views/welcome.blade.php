@@ -532,6 +532,65 @@ Et enfin, si vous aviez parlé de GAEL, eh bien ! Maintenant, il faut devenir GA
 						</section>
 						<!-- About Section End -->
 
+						<!-- Team Section -->
+						<section id="team-section" class="team-section pad-top-95 pad-bottom-90">
+							<div class="container">
+								<!-- Row -->
+								<div class="row">
+									<div class="offset-md-2 col-md-8">
+										<div class="title-wrap text-center">
+											<div class="section-title">
+												<span class="sub-title theme-color text-uppercase">Notre équipe</span>
+												<h2 class="section-title margin-top-5">La Mission Team</h2>
+												<span class="border-bottom center"></span>
+											</div>
+										</div>
+									</div>
+
+									<!--Team Main Slider-->
+									<div class="owl-carousel team-main-wrapper" data-loop="1" data-nav="0" data-dots="1" data-autoplay="1" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
+	@foreach ($json_result as $team)
+										<!--Item-->
+										<div class="item">
+											<div class="team-style-1">
+												<!--Team Inner-->
+												<div class="team-inner margin-bottom-20">
+													<div class="team-thumb mb-0 relative">
+														<!--Team Overlay-->
+														<div class="team-overlay"></div>
+														<img src="{{ asset($team->picture) }}" class="img-fluid thumb w-100" width="480" height="485" alt="{{ $team->names }}" />
+														<div class="team-overlay-details top-left-overlay typo-white text-center">
+															<div class="social-icons">
+																<a href="{{ $team->facebook }}"><span class="ti-facebook"></span></a>
+																<a href="{{ $team->twitter }}"><span class="ti-twitter"></span></a>
+																<a href="{{ $team->instagram }}"><span class="ti-instagram"></span></a>
+																<a href="{{ $team->linkedin }}"><span class="ti-linkedin"></span></a>
+															</div>
+														</div>
+													</div>
+													
+													<div class="team-details text-center pad-20">
+														<div class="team-name">
+															<h3 class="mb-0"><a href="{{ route('about.team.datas', ['id' => $team->id]) }}" class="client-name typo-white">{{ $team->names }}</a></h3>
+														</div>
+														<div class="team-designation"><p class="mb-0">{{ $team->role }}</p></div>
+													</div>
+												</div>
+												<!--Team Inner Ends-->
+											</div>
+										</div>
+										<!--Item Ends-->
+
+	@endforeach
+									</div>
+									<!--Team Owl Slider-->
+								</div>
+								<!-- Row -->
+							</div>
+							<!-- Container -->
+						</section>
+						<!-- Team Section End -->
+
 						<!-- Contact Map -->
 						<section class="contact-map pad-none">
 							<!-- Container -->

@@ -79,6 +79,14 @@
 			A propos
 	@endif
 
+	@if (Route::is('about.team.home'))
+			La Mission Team
+	@endif
+
+	@if (Route::is('about.team.datas'))
+			{{ $member->names }}
+	@endif
+
 	@if (Route::is('ministry.home') || Route::is('ministry.datas'))
 			Ministères
 	@endif
@@ -187,9 +195,8 @@
 								<ul class="nav topbar-items pull-right">
 									<li class="nav-item">
 										<div class="social-icons typo-white">
-											<a href="#" class="social-fb"><span class="ti-facebook"></span></a>
-											<a href="#" class="social-twitter"><span class="ti-twitter"></span></a>
-											<a href="#" class="social-youtube"><span class="ti-youtube"></span></a>
+											<a class="social-fb" href="https://web.facebook.com/GaelMinistriesOfficial/" target="_blank"><span class="ti-facebook"></span></a>
+											<a class="social-youtube" href="https://www.youtube.com/watch?v=3SxK9DPMVMU" target="_blank"><span class="ti-youtube"></span></a>
 										</div>
 									</li>
 									<li><a href="#" class="full-view-switch text-center"><i class="ti-search typo-white"></i></a></li>
@@ -240,7 +247,7 @@
                                                             <a href="{{ route('about.home') }}">A propos</a>
                                                         </li>
 														<li class="{{ Route::is('ministry.home') ? 'active' : '' }}">
-                                                            <a href="{{ route('ministry.home') }}">Ministère</a>
+                                                            <a href="{{ route('ministry.home') }}">Ministères</a>
                                                         </li>
 														<li class="{{ Route::is('discography.home') ? 'active' : '' }}">
                                                             <a href="{{ route('discography.home') }}">Discographie</a>
@@ -276,7 +283,7 @@
 					<rs-module id="rev_slider_1_1" style data-version="6.5.31">
 						<rs-slides>
 							<rs-slide style="position: absolute;" data-key="rs-1" data-title="Web Show" data-thumb="{{ asset('img/slides/slide_00_thumb.png') }}" data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
-                                <img src="{{ asset('addons/zegen/rs-plugin/assets/dummy.png') }}" alt="Non Profit Wordpress Theme" title="zmain-slider-1.jpg" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('img/slides/slide_00.png') }}" data-parallax="5" data-no-retina>
+                                <img src="{{-- asset('addons/zegen/rs-plugin/assets/dummy.png') --}}" alt=" " title="zmain-slider-1.jpg" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('img/slides/slide_00.png') }}" data-parallax="5" data-no-retina>
 
                                 <!--  -->
                                 <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,-26px,-10px,-33px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,30;l:52,55,50,40;ls:3px;fw:700;a:center;" data-dim="w:754px,699px,auto,400px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">
@@ -300,13 +307,13 @@
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-1-layer-21" data-type="image" data-rsp_ch="on" data-xy="x:c;yo:228px,95px,91px,90px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;" data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;">
-                                    <img src="{{ asset('addons/zegen/rs-plugin/assets/dummy.png') }}" alt="Non Profit Wordpress Theme" class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{ asset('addons/zegen/rs-plugin/assets/dove.png') }}" data-no-retina>
+                                    <img src="{{-- asset('addons/zegen/rs-plugin/assets/dummy.png') --}}" alt=" " class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{-- asset('addons/zegen/rs-plugin/assets/dove.png') --}}" data-no-retina>
                                 </rs-layer>
                                 <!--  -->
                             </rs-slide>
 
                             <rs-slide style="position: absolute;" data-key="rs-2" data-title="Web Show" data-thumb="{{ asset('img/slides/slide_01_thumb.png') }}" data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
-                                <img src="{{ asset('addons/zegen/rs-plugin/assets/dummy.png') }}" alt="Non Profit Wordpress Theme" title="zmain-slider-3.jpg" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('img/slides/slide_01.png') }}" data-parallax="5" data-no-retina>
+                                <img src="{{-- asset('addons/zegen/rs-plugin/assets/dummy.png') --}}" alt=" " title="zmain-slider-3.jpg" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('img/slides/slide_01.png') }}" data-parallax="5" data-no-retina>
 
                                 <!--  -->
                                 <h1 id="slider-1-slide-2-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-32px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;" data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">
@@ -330,13 +337,13 @@
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-2-layer-21" data-type="image" data-rsp_ch="on" data-xy="x:c;yo:228px,133px,102px,89px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;" data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;">
-                                    <img src="{{ asset('addons/zegen/rs-plugin/assets/dummy.png') }}" alt="Non Profit Wordpress Theme" class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{ asset('addons/zegen/rs-plugin/assets/loveus.png') }}" data-no-retina>
+                                    <img src="{{-- asset('addons/zegen/rs-plugin/assets/dummy.png') --}}" alt=" " class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{-- asset('addons/zegen/rs-plugin/assets/loveus.png') --}}" data-no-retina>
                                 </rs-layer>
                                 <!--  -->
                             </rs-slide>
 
                             <rs-slide style="position: absolute;" data-key="rs-3" data-title="Web Show" data-thumb="{{ asset('img/slides/slide_02_thumb.png') }}" data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
-                                <img src="{{ asset('addons/zegen/rs-plugin/assets/dummy.png') }}" alt="Non Profit Wordpress Theme" title="zmain-slider-2.jpg" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('img/slides/slide_02.png') }}" data-parallax="5" data-no-retina>
+                                <img src="{{-- asset('addons/zegen/rs-plugin/assets/dummy.png') --}}" alt=" " title="zmain-slider-2.jpg" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{ asset('img/slides/slide_02.png') }}" data-parallax="5" data-no-retina>
 
                                 <!--  -->
                                 <h1 id="slider-1-slide-3-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,0,-10px,-38px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,28;l:52,55,50,30;ls:3px;fw:700;a:center;" data-dim="w:922px,845px,736px,478px;h:62px,auto,auto,35px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">
@@ -360,7 +367,7 @@
 
                                 <!--  -->
                                 <rs-layer id="slider-1-slide-3-layer-21" data-type="image" data-rsp_ch="on" data-xy="x:c;yo:228px,133px,102px,85px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;" data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;">
-                                    <img src="{{ asset('addons/zegen/rs-plugin/assets/dummy.png') }}" alt="Non Profit Wordpress Theme" class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{ asset('addons/zegen/rs-plugin/assets/bible.png') }}" data-no-retina>
+                                    <img src="{{-- asset('addons/zegen/rs-plugin/assets/dummy.png') --}}" alt=" " class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{-- asset('addons/zegen/rs-plugin/assets/bible.png') --}}" data-no-retina>
                                 </rs-layer>
                                 <!--  -->
                             </rs-slide>

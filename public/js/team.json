@@ -1,0 +1,628 @@
+{
+    "fr" :
+    [
+        {
+        "id" : 1,
+        "names" : "Trésor BIBI",
+        "role" : "Role 1",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-1.png"
+        },
+        {
+        "id" : 2,
+        "names" : "Junior BIANTUADI",
+        "role" : "Role 2",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-2.png"
+        },
+        {
+        "id" : 3,
+        "names" : "Serge MBUYI",
+        "role" : "Role 3",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-3.png"
+        },
+        {
+        "id" : 4,
+        "names" : "Krystel NSARHAZA",
+        "role" : "Role 4",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-4.png"
+        },
+        {
+        "id" : 5,
+        "names" : "Tempo BOLINGO",
+        "role" : "Role 5",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-5.png"
+        },
+        {
+        "id" : 6,
+        "names" : "Francis NSEMI",
+        "role" : "Role 6",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-6.png"
+        },
+        {
+        "id" : 7,
+        "names" : "Robert NGOYI",
+        "role" : "Role 7",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-7.png"
+        },
+        {
+        "id" : 8,
+        "names" : "Gisel DELEME",
+        "role" : "Role 8",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-8.png"
+        },
+        {
+        "id" : 9,
+        "names" : "Nadège IMPOTE",
+        "role" : "Role 9",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-9.png"
+        },
+        {
+        "id" : 10,
+        "names" : "Serge TABU",
+        "role" : "Role 10",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-10.png"
+        }
+    ],
+    "en" :
+    [
+        {
+        "id" : 1,
+        "names" : "Trésor BIBI",
+        "role" : "Role 1",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-1.png"
+        },
+        {
+        "id" : 2,
+        "names" : "Junior BIANTUADI",
+        "role" : "Role 2",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-2.png"
+        },
+        {
+        "id" : 3,
+        "names" : "Serge MBUYI",
+        "role" : "Role 3",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-3.png"
+        },
+        {
+        "id" : 4,
+        "names" : "Krystel NSARHAZA",
+        "role" : "Role 4",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-4.png"
+        },
+        {
+        "id" : 5,
+        "names" : "Tempo BOLINGO",
+        "role" : "Role 5",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-5.png"
+        },
+        {
+        "id" : 6,
+        "names" : "Francis NSEMI",
+        "role" : "Role 6",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-6.png"
+        },
+        {
+        "id" : 7,
+        "names" : "Robert NGOYI",
+        "role" : "Role 7",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-7.png"
+        },
+        {
+        "id" : 8,
+        "names" : "Gisel DELEME",
+        "role" : "Role 8",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-8.png"
+        },
+        {
+        "id" : 9,
+        "names" : "Nadège IMPOTE",
+        "role" : "Role 9",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-9.png"
+        },
+        {
+        "id" : 10,
+        "names" : "Serge TABU",
+        "role" : "Role 10",
+        "facebook" : "#",
+        "twitter" : "#",
+        "instagram" : "#",
+        "linkedin" : "#",
+        "assets" :
+        [
+            {
+                "asset1" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "asset2" : "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ],
+        "experience" :
+        [
+            {
+                "company" : "Duis aute irure dolor",
+                "role" : "Excepteur sint",
+                "tasks" : null
+            }
+        ],
+        "diplomas" :
+        [
+            {
+                "diploma" : "Curabitur pretium tincidunt lacus"
+            }
+        ],
+        "picture" : "img/team/member-10.png"
+        }
+    ]
+}
