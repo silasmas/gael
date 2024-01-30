@@ -104,17 +104,15 @@
 
     <body data-res-from="1025">
 		<!--Modal-->
-		<div id="donateModal" class="modal" tabindex="-1">
+		<div id="donateModal" class="modal fade" tabindex="-1">
 			<div class="modal-dialog">
-				<div class="modal-content">
+				<div class="modal-content modal-lg">
 					<div class="modal-header">
-						{{-- <h5 class="modal-title">Modal title</h5>
-						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> --}}
+						{{-- <h5 class="modal-title">Modal title</h5> --}}
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
 					<div class="modal-body">
-						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-
-						<p>DONATE</p>
+						<p class="text-center">DONATE</p>
 					</div>
 					<div class="modal-footer">
 						{{-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
