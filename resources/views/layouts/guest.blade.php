@@ -107,17 +107,46 @@
 		<div id="donateModal" class="modal fade" tabindex="-1">
 			<div class="modal-dialog modal-lg">
 				<div class="modal-content">
-					<div class="modal-header">
+					<div class="modal-header border-bottom-0">
 						{{-- <h5 class="modal-title">Modal title</h5> --}}
 						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					</div>
+
 					<div class="modal-body">
-						<p class="text-center">DONATE</p>
+						<section class="contact-map pad-none">
+							<!-- Container -->
+							<div class="container">
+								<div class="row">
+									<div class="col-12">
+										<p class="lead text-center">Contactez-nous ou rendez-vous à notre siège social</p>
+
+										<div class="section-title mt-0 text-center">
+											<span class="sub-title theme-color text-uppercase"></span>
+											<h2 class="section-title margin-top-5">Adresse</h2>
+											<span class="border-bottom mx-auto">0115, avenue Sadiki, 14<small class="d-inline-block align-top">ème</small> Rue, Industriel, com. de Limete</span>
+										</div>
+
+										<div class="section-title mt-0 text-center">
+											<span class="sub-title theme-color text-uppercase"></span>
+											<h2 class="section-title margin-top-5">Téléphone</h2>
+											<span class="border-bottom mx-auto">+123 456 789</span>
+										</div>
+
+										<!-- Map -->
+										<div class="map p-sm-4">
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31827.877579898413!2d15.262481110839843!3d-4.319647500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a33e2ff4df57f%3A0xd38901f99027183b!2sGael%20Ministries!5e0!3m2!1sfr!2scd!4v1700871404177!5m2!1sfr!2scd" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+										</div>
+										<!-- Map -->
+									</div>
+								</div>
+							</div>
+							<!-- Container -->
+						</section>
 					</div>
-					<div class="modal-footer">
-						{{-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button> --}}
-					</div>
+					{{-- <div class="modal-footer">
+						<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Save changes</button>
+					</div> --}}
 				</div>
 			</div>
 		</div>
