@@ -74,7 +74,7 @@
 @if (Route::is('home'))
 			Groupe Adorons l'Éternel
 @else
-			GAEL | 
+			GAEL |
 	@if (Route::is('about.home'))
 			A propos
 	@endif
@@ -149,7 +149,7 @@
 				</div>
 			</div>
 		</div>
-		  
+
 
 		<!--Page Loader-->
 		<div class="page-loader"></div>
@@ -307,7 +307,8 @@
                                                 <!--List Item-->
 												<li class="list-item">
 													<div class="header-navbar-text-1">
-                                                        <a href="#" class="h-donate-btn" data-bs-toggle="modal" data-bs-target="#donateModal">Donation</a>
+                                                        <a href="https://Donorbox.org/gael-ministries" target="_blank" rel="noopener noreferrer" class="h-donate-btn" >Donation</a>
+                                                        {{-- <a href="https://Donorbox.org/gael-ministries" class="h-donate-btn" data-bs-toggle="modal" data-bs-target="#donateModal">Donation</a> --}}
                                                     </div>
 												</li>
 												<!--List Item End-->
@@ -571,7 +572,7 @@
 								<ul class="footer-bottom-items pull-left">
 									<li class="nav-item">
 										<div class="nav-item-inner">
-											Copyright &copy; {{ date('Y') }} <a href="{{ route('home') }}">GAEL</a>. 
+											Copyright &copy; {{ date('Y') }} <a href="{{ route('home') }}">GAEL</a>.
                                             Designed by <a href="http://silasmas.com/">SDEV</a><span class="heart-color"><i class="bi bi-heart ms-1 align-middle"></i></span>
 										</div>
 									</li>
